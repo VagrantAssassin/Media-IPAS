@@ -35,6 +35,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/List Bab/Bab8.unity
     guid: 666a17401f912ef4d9911da4e42bd37b
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/Simulasi Merambat Lurus.unity
+    guid: 5d04482de73a92345b95c088534f768a
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/Simulasi Memantul.unity
+    guid: 0d96cac19bac0a84fbd2254b44b8f8eb
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/Simulasi Bayangan.unity
+    guid: 2ca834afb0d73cd4bb35fa9870473691
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/Simulasi Membiaskan.unity
+    guid: 2ca54d84192f3e94f836562654b5a245
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/Simulasi Menembus.unity
+    guid: 003088ddfadcb1141a3c14ed46df2619
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -71,7 +71,7 @@ public class MateriContentController : MonoBehaviour
 
     [Header("Sidebar Slide Settings")]
     [SerializeField] private float sidebarSlideDuration = 0.2f;
-    [SerializeField] private float hiddenOffsetX = -300f; 
+    [SerializeField] private float hiddenOffsetX = -300f;
     // hiddenOffsetX: seberapa jauh sidebar digeser ke kiri dari posisi shown.
     // Sesuaikan dengan lebar sidebar kamu (mis. -280, -320, dst).
 
@@ -82,6 +82,26 @@ public class MateriContentController : MonoBehaviour
     private Vector2 sidebarShownPos;
     private Vector2 sidebarHiddenPos;
     private Coroutine sidebarSlideRoutine;
+
+    // =========================
+    // SAVE/LOAD LAST PAGE (NEW)
+    // =========================
+    // Kalau kamu mau per-scene/per-bab, ganti prefix ini memakai SceneManager.GetActiveScene().name
+    private const string PrefSubIndex = "MediaIPAS.LastMateri.SubIndex";
+    private const string PrefPageIndex = "MediaIPAS.LastMateri.PageIndex";
+
+    private void SaveLastViewed()
+    {
+        PlayerPrefs.SetInt(PrefSubIndex, currentSubIndex);
+        PlayerPrefs.SetInt(PrefPageIndex, currentPageIndex);
+        PlayerPrefs.Save();
+    }
+
+    private void LoadLastViewedOrDefault(out int subIndex, out int pageIndex)
+    {
+        subIndex = PlayerPrefs.GetInt(PrefSubIndex, 0);
+        pageIndex = PlayerPrefs.GetInt(PrefPageIndex, 0);
+    }
 
     private void Awake()
     {
@@ -96,7 +116,18 @@ public class MateriContentController : MonoBehaviour
 
     private void Start()
     {
-        SelectSubBab(0);
+        // Restore last viewed page instead of always starting at 0
+        if (subBabs == null || subBabs.Count == 0)
+            return;
+
+        LoadLastViewedOrDefault(out int savedSub, out int savedPage);
+
+        savedSub = Mathf.Clamp(savedSub, 0, subBabs.Count - 1);
+
+        currentSubIndex = savedSub;
+        currentPageIndex = savedPage; // nanti di-clamp di RefreshUI()
+
+        RefreshUI();
     }
 
     private void WireNavButtons()
@@ -208,6 +239,9 @@ public class MateriContentController : MonoBehaviour
 
     private void RefreshUI()
     {
+        if (subBabs == null || subBabs.Count == 0) return;
+        if (currentSubIndex < 0 || currentSubIndex >= subBabs.Count) currentSubIndex = 0;
+
         if (materiTitleText != null)
             materiTitleText.text = materiTitle;
 
@@ -227,6 +261,10 @@ public class MateriContentController : MonoBehaviour
             if (nextButton != null) nextButton.interactable = false;
 
             HideSimulationButton();
+
+            // tetap simpan state sub/page (page akan 0)
+            currentPageIndex = 0;
+            SaveLastViewed();
             return;
         }
 
@@ -245,6 +283,9 @@ public class MateriContentController : MonoBehaviour
         if (nextButton != null) nextButton.interactable = currentPageIndex < pages.Count - 1;
 
         RefreshSimulationButton();
+
+        // NEW: simpan setiap kali UI di-refresh (pindah page/sub-bab)
+        SaveLastViewed();
     }
 
     private void SetImageSlot(Image slot, Sprite sprite)
@@ -306,6 +347,9 @@ public class MateriContentController : MonoBehaviour
         var rule = FindSimulationRule(currentSubIndex, currentPageIndex);
         if (rule == null || string.IsNullOrEmpty(rule.simulationSceneName))
             return;
+
+        // NEW: pastikan tersimpan sebelum pindah scene simulasi
+        SaveLastViewed();
 
         SceneManager.LoadScene(rule.simulationSceneName);
     }

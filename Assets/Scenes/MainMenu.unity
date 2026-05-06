@@ -721,9 +721,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0
+    y: 0.16666666
     width: 1
-    height: 1
+    height: 0.6666666
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
@@ -1158,7 +1158,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bc338bdf38a9a0b4388478af364346ff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ba278cd018b83a04db8f82e2db7b5a00, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1995,8 +1995,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 1353519254}
   targetImage: {fileID: 1353519255}
-  mutedSprite: {fileID: 21300000, guid: 13e1dfc1bab7ed446a6359af66c68e94, type: 3}
-  unmutedSprite: {fileID: 21300000, guid: 97bc3631074ada4488898424915a3893, type: 3}
+  mutedSprite: {fileID: 21300000, guid: 97bc3631074ada4488898424915a3893, type: 3}
+  unmutedSprite: {fileID: 21300000, guid: 13e1dfc1bab7ed446a6359af66c68e94, type: 3}
 --- !u!114 &1353519258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2074,7 +2074,13 @@ MonoBehaviour:
   closeButton: {fileID: 958048935}
   prevButton: {fileID: 14752978}
   nextButton: {fileID: 1343958288}
-  guidePages: []
+  guidePages:
+  - title: Cara Bermain Simulasi
+    description: '- Klik kiri mouse dan tahan untuk memindahkan benda'
+    image: {fileID: 0}
+  - title: Cara Bermain Simulasi
+    description: '- Scroll sambil tekan tahan mouse untuk memutar benda'
+    image: {fileID: 0}
   aboutUsPages: []
 --- !u!1 &1444764013
 GameObject:
@@ -2411,7 +2417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6bd57684acf5dc245a093aed7a14d244, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 31161b8c41df54c40a125c7fbe63cf99, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2556,7 +2562,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f7218ad3633f78b459f183e742691e3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7876f39d0d4c1d54f8ca50c2f1cd63c5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
