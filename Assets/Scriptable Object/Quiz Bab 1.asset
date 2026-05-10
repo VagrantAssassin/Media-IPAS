@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Pernahkah kamu melihat sinar Matahari yang masuk melalui celah-celah
+      daun atau jendela dan sinarnya tampak berbentuk seperti garis-garis lurus?
+      Hal ini menunjukkan bahwa cahaya memiliki sifat....
+    choiceA: Merambat lurus
+    choiceB: Dapat diuraikan
+    choiceC: Dapat dibiaskan
+    choiceD: Dapat dipantulkan
+    correctChoiceIndex: 0
+  - questionText: Kita bisa melihat pemandangan taman di luar melalui kaca jendela
+      yang jernih, tetapi kita tidak bisa melihat benda di balik tembok dinding.
+      Hal ini membuktikan sifat cahaya yaitu....
+    choiceA: Cahaya bisa menembus benda bening, tetapi tidak bisa menembus benda
+      gelap
+    choiceB: Cahaya dapat memantul pada benda datar
+    choiceC: Cahaya dapat dibiaskan oleh kaca
+    choiceD: Cahaya Matahari bisa diuraikan menjadi pelangi
+    correctChoiceIndex: 0
+  - questionText: Saat kamu berenang, dasar kolam renang sering kali terlihat lebih
+      dangkal dari ukuran aslinya. Selain itu, pensil yang dimasukkan ke dalam gelas
+      berisi air akan tampak patah. Sifat cahaya apakah yang menyebabkan hal tersebut
+      terjadi?
+    choiceA: Cahaya dapat dibiaskan
+    choiceB: Cahaya dapat diuraikan
+    choiceC: Cahaya menembus benda bening
+    choiceD: Cahaya merambat lurus
+    correctChoiceIndex: 0
+  - questionText: 'Pelangi yang indah sering kali muncul di langit setelah hujan.
+      Fenomena pelangi ini terbentuk karena sifat cahaya putih dari Matahari yang
+      dapat....
+
+'
+    choiceA: Diuraikan menjadi warna-warni pelangi
+    choiceB: Dibiaskan oleh awan yang gelap
+    choiceC: Dipantulkan oleh Matahari ke langit
+    choiceD: Menembus awan dan debu secara lurus
+    correctChoiceIndex: 0
+  - questionText: Bayangan tubuh kita atau sebuah benda akan terbentuk apabila cahaya
+      terhalang oleh benda yang gelap atau tidak tembus cahaya. Ukuran dan bentuk
+      bayangan yang terbentuk sangat dipengaruhi oleh....
+    choiceA: Jauh dekatnya sumber cahaya terhadap benda
+    choiceB: Warna benda yang dihalangi oleh cahaya
+    choiceC: Suara atau bunyi di sekitar benda tersebut
+    choiceD: Kecepatan angin di tempat terbentuknya bayangan
+    correctChoiceIndex: 0
+  - questionText: Mengapa kita tidak bisa melihat benda-benda di sekitar kita saat
+      berada di ruangan yang gelap gulita tanpa cahaya?
+    choiceA: Karena tidak ada cahaya yang mengenai benda dan memantul ke mata kita
+    choiceB: Karena bagian pupil mata kita tertutup rapat secara otomatis dalam kegelapan
+    choiceC: Karena bagian lensa mata kita butuh beristirahat saat kondisi sedang
+      gelap
+    choiceD: Karena benda-benda di sekitar kita menyerap semua warna hitam di malam
+      hari
+    correctChoiceIndex: 0
+  - questionText: Mata kita memiliki beberapa bagian luar yang terlihat, seperti
+      alis, bulu mata, dan lipatan mata. Apa fungsi utama dari bagian-bagian luar
+      tersebut?
+    choiceA: Melindungi mata dari benda asing seperti keringat, debu, dan kotoran
+    choiceB: Mengatur banyak atau sedikitnya cahaya matahari yang masuk ke bola mata
+    choiceC: Mengirimkan pesan atau sinyal dari bayangan benda secara langsung ke
+      otak
+    choiceD: Membantu mata melihat objek yang ukurannya sangat kecil dan sangat jauh
+    correctChoiceIndex: 0
+  - questionText: Di tengah mata kita terdapat bagian berbentuk lingkaran hitam yang
+      disebut pupil. Apa yang akan terjadi pada bagian pupil matamu saat berada di
+      luar ruangan yang sangat terang atau silau?
+    choiceA: Pupil akan mengecil agar cahaya yang masuk ke mata tidak terlalu banyak
+    choiceB: Pupil akan membesar agar dapat menangkap cahaya terang sebanyak-banyaknya
+    choiceC: Pupil akan berubah warna menjadi sedikit lebih cerah menyesuaikan cahaya
+    choiceD: Pupil akan langsung mengeluarkan air mata untuk mengurangi rasa silau
+      di luar
+    correctChoiceIndex: 0
+  - questionText: Terkadang penglihatan seseorang mengalami gangguan sehingga membutuhkan
+      bantuan kacamata. Gangguan penglihatan di mana seseorang merasa kesulitan melihat
+      benda yang letaknya sangat jauh disebut....
+    choiceA: Rabun jauh
+    choiceB: Rabun dekat
+    choiceC: Mata silindris
+    choiceD: Mata normal
+    correctChoiceIndex: 0
+  - questionText: "Mata adalah indra penglihatan yang sangat berharga bagi manusia.
+      Oleh karena itu, salah satu cara yang benar dan tepat untuk menjaga kesehatan
+      mata kita adalah....\r"
+    choiceA: Tidak melihat sinar yang terlalu terang secara langsung dan tidak melihat
+      objek dekat terlalu lama
+    choiceB: 'Membaca buku atau bermain gawai secara terus-menerus di ruangan yang
+      gelap gulita '
+    choiceC: Menatap cahaya Matahari pada siang hari secara langsung agar mata menjadi
+      jauh lebih kuat
+    choiceD: Sering mengucek mata dengan tenaga kuat menggunakan tangan yang kotor
+      saat terasa gatal
+    correctChoiceIndex: 0
+  - questionText: Bunyi dapat terdengar sampai ke telinga kita karena dapat merambat
+      melalui benda padat, cair, dan gas. Di antara ketiga wujud benda tersebut,
+      perantara apakah yang paling baik dan paling cepat merambatkan bunyi?
+    choiceA: Benda padat seperti meja atau tembok
+    choiceB: Benda gas seperti udara di sekitar kita
+    choiceC: Benda cair seperti air di dalam kolam renang
+    choiceD: Ruang hampa yang sama sekali tidak memiliki udara
+    correctChoiceIndex: 0
+  - questionText: Saat kamu berteriak di depan tebing atau di ruangan kosong, suaramu
+      sering kali terdengar kembali setelah beberapa saat. Fenomena gema atau gaung
+      ini membuktikan bahwa bunyi memiliki sifat....
+    choiceA: Dapat dipantulkan oleh permukaan benda yang keras
+    choiceB: 'Dapat diserap oleh permukaan benda yang empuk dan lunak '
+    choiceC: Dapat merambat lurus menembus tembok yang tebal
+    choiceD: Dapat membelok saat melewati ruangan yang gelap
+    correctChoiceIndex: 0
+  - questionText: Selain bisa memantul, bunyi juga bisa diredam atau diserap agar
+      suaranya tidak terlalu bising. Di bawah ini, manakah kelompok benda yang permukaannya
+      paling baik untuk meredam dan menyerap bunyi?
+    choiceA: Busa, karpet, dan bantal
+    choiceB: Kaca jendela, kayu, dan tiang besi
+    choiceC: Tembok rumah, batu bata, dan lantai keramik
+    choiceD: Air jernih, cermin datar, dan seng
+    correctChoiceIndex: 0
+  - questionText: 'Suara peluit dan kicauan burung terdengar bernada tinggi, sedangkan
+      suara hewan yang lebih besar biasanya terdengar lebih rendah. Tinggi rendahnya
+      suatu bunyi ini sangat dipengaruhi oleh....
+
+'
+    choiceA: Seberapa cepat benda tersebut bergetar
+    choiceB: Seberapa kuat tenaga yang diberikan pada benda
+    choiceC: Seberapa jauh jarak sumber bunyi dari telinga kita
+    choiceD: Seberapa berat ukuran benda yang menghasilkan bunyi
+    correctChoiceIndex: 0
+  - questionText: Coba pukul sebuah drum dengan pelan, maka suaranya akan kecil.
+      Jika dipukul dengan gaya yang sangat kuat, maka suaranya akan menjadi sangat
+      keras. Keras atau pelannya suatu bunyi yang dipengaruhi oleh besar kecilnya
+      gaya disebut dengan....
+    choiceA: 'Intensitas '
+    choiceB: 'Nada '
+    choiceC: 'Gema '
+    choiceD: Gaung
+    correctChoiceIndex: 0
+  - questionText: Bagaimana cara bunyi, seperti suara musik atau orang berbicara,
+      bisa sampai dan terdengar oleh telinga kita?
+    choiceA: Bunyi merambat ke telinga kita melalui perantara udara
+    choiceB: "Bunyi merambat melalui cahaya matahari ke telinga\t"
+    choiceC: Bunyi memantul dari tanah lalu langsung masuk ke kepala
+    choiceD: Bunyi terbawa oleh debu-debu yang terbang ke telinga
+    correctChoiceIndex: 0
+  - questionText: Saat ada bunyi yang masuk ke dalam telinga, ada suatu bagian penting
+      di dalam telinga kita yang akan ikut bergetar. Bagian ini disebut....
+    choiceA: Gendang telinga
+    choiceB: Saraf pendengaran
+    choiceC: Daun telinga
+    choiceD: Tulang rawan
+    correctChoiceIndex: 0
+  - questionText: Setelah bagian dalam telinga ikut bergetar, siapakah yang bertugas
+      menerima sinyal bunyi tersebut dan meneruskannya ke otak kita?
+    choiceA: Saraf pendengaran
+    choiceB: Pembuluh darah
+    choiceC: Otot telinga
+    choiceD: Saluran udara
+    correctChoiceIndex: 0
+  - questionText: Otak manusia memiliki peran yang sangat hebat saat kita mendengar.
+      Apa tugas otak ketika menerima sinyal dari saraf pendengaran?
+    choiceA: Menerjemahkan sinyal bunyi sehingga kita bisa mengerti suara apa yang
+      didengar
+    choiceB: Menolak sinyal suara jika suaranya terlalu pelan dan jauh
+    choiceC: Mengubah suara tersebut menjadi bentuk bayangan
+    choiceD: Menyerap udara yang masuk bersama dengan gelombang suara
+    correctChoiceIndex: 0
+  - questionText: Telinga adalah organ tubuh yang harus kita jaga. Salah satu caranya
+      adalah dengan menghindari suara yang sangat keras, bising, dan mengganggu karena
+      bisa merusak telinga. Suara yang sangat mengganggu ini disebut dengan....
+    choiceA: Polusi suara
+    choiceB: Gema suara
+    choiceC: Gaung suara
+    choiceD: Pantulan suara
+    correctChoiceIndex: 0

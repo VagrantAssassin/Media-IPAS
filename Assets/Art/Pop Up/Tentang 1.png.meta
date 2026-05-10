@@ -1,0 +1,3146 @@
+fileFormatVersion: 2
+guid: e1feeed6ae196c046b558d39e24c9a4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3501912588368849970
+    second: Tentang 1_0
+  - first:
+      213: 8095068800803336329
+    second: Tentang 1_1
+  - first:
+      213: -7014225210178318914
+    second: Tentang 1_2
+  - first:
+      213: -7019696051021255577
+    second: Tentang 1_3
+  - first:
+      213: 8943875527811706997
+    second: Tentang 1_4
+  - first:
+      213: -8131383055425258747
+    second: Tentang 1_5
+  - first:
+      213: 3704919776274270194
+    second: Tentang 1_6
+  - first:
+      213: 3153060156629418933
+    second: Tentang 1_7
+  - first:
+      213: -1327419889823125627
+    second: Tentang 1_8
+  - first:
+      213: 5693004634078252696
+    second: Tentang 1_9
+  - first:
+      213: 3629112712772847567
+    second: Tentang 1_10
+  - first:
+      213: 3287737936648914117
+    second: Tentang 1_11
+  - first:
+      213: -3407064111365770805
+    second: Tentang 1_12
+  - first:
+      213: -1282518918373999311
+    second: Tentang 1_13
+  - first:
+      213: 8843268896046787193
+    second: Tentang 1_14
+  - first:
+      213: 224728702180531601
+    second: Tentang 1_15
+  - first:
+      213: 3856172257360516997
+    second: Tentang 1_16
+  - first:
+      213: 8518558885123799799
+    second: Tentang 1_17
+  - first:
+      213: -6239501067819216386
+    second: Tentang 1_18
+  - first:
+      213: 1238794481949679168
+    second: Tentang 1_19
+  - first:
+      213: -8745666363573501684
+    second: Tentang 1_20
+  - first:
+      213: -5364170348702662241
+    second: Tentang 1_21
+  - first:
+      213: 5506339741189800732
+    second: Tentang 1_22
+  - first:
+      213: 8637619704253996321
+    second: Tentang 1_23
+  - first:
+      213: 1901018007467599744
+    second: Tentang 1_24
+  - first:
+      213: -6490840721427513579
+    second: Tentang 1_25
+  - first:
+      213: -6137057750500929931
+    second: Tentang 1_26
+  - first:
+      213: 7735743003469695040
+    second: Tentang 1_27
+  - first:
+      213: -3566102284547771326
+    second: Tentang 1_28
+  - first:
+      213: -7109163478299007080
+    second: Tentang 1_29
+  - first:
+      213: 868069731170227541
+    second: Tentang 1_30
+  - first:
+      213: -6496389631371230972
+    second: Tentang 1_31
+  - first:
+      213: 4354046766117441297
+    second: Tentang 1_32
+  - first:
+      213: 637325134171937298
+    second: Tentang 1_33
+  - first:
+      213: -5072432918772802002
+    second: Tentang 1_34
+  - first:
+      213: 6626398582258281678
+    second: Tentang 1_35
+  - first:
+      213: -3041742754393315126
+    second: Tentang 1_36
+  - first:
+      213: -621097721723386192
+    second: Tentang 1_37
+  - first:
+      213: 2377195203178491802
+    second: Tentang 1_38
+  - first:
+      213: -2647477127797691015
+    second: Tentang 1_39
+  - first:
+      213: 3734370793030082264
+    second: Tentang 1_40
+  - first:
+      213: -2156606452677507337
+    second: Tentang 1_41
+  - first:
+      213: 2501075681486020028
+    second: Tentang 1_42
+  - first:
+      213: 7356531349899616737
+    second: Tentang 1_43
+  - first:
+      213: 872472349810248516
+    second: Tentang 1_44
+  - first:
+      213: -7198468951436684591
+    second: Tentang 1_45
+  - first:
+      213: -8046029121229281726
+    second: Tentang 1_46
+  - first:
+      213: -8200306183141672402
+    second: Tentang 1_47
+  - first:
+      213: -1123526520672961109
+    second: Tentang 1_48
+  - first:
+      213: 6088727769602362293
+    second: Tentang 1_49
+  - first:
+      213: -3885197355041957700
+    second: Tentang 1_50
+  - first:
+      213: -4651528540081049890
+    second: Tentang 1_51
+  - first:
+      213: 5126912333020646782
+    second: Tentang 1_52
+  - first:
+      213: -8481570132785721744
+    second: Tentang 1_53
+  - first:
+      213: -4568833555882414345
+    second: Tentang 1_54
+  - first:
+      213: 8250410053350131962
+    second: Tentang 1_55
+  - first:
+      213: 1484297058548852164
+    second: Tentang 1_56
+  - first:
+      213: -4171406202078730545
+    second: Tentang 1_57
+  - first:
+      213: 5254385070557030334
+    second: Tentang 1_58
+  - first:
+      213: -5871565205143153004
+    second: Tentang 1_59
+  - first:
+      213: -1667284024351869535
+    second: Tentang 1_60
+  - first:
+      213: 6777980573945688332
+    second: Tentang 1_61
+  - first:
+      213: -5111949832226524420
+    second: Tentang 1_62
+  - first:
+      213: -3139855902025022023
+    second: Tentang 1_63
+  - first:
+      213: -5440106987603671317
+    second: Tentang 1_64
+  - first:
+      213: -1612873487713671640
+    second: Tentang 1_65
+  - first:
+      213: 1108821134810496099
+    second: Tentang 1_66
+  - first:
+      213: 9203621452312487735
+    second: Tentang 1_67
+  - first:
+      213: 153314825933504122
+    second: Tentang 1_68
+  - first:
+      213: -6145372805088869058
+    second: Tentang 1_69
+  - first:
+      213: -6368341032284698778
+    second: Tentang 1_70
+  - first:
+      213: -4070516355370405026
+    second: Tentang 1_71
+  - first:
+      213: 664394173602831510
+    second: Tentang 1_72
+  - first:
+      213: 5690373808011468955
+    second: Tentang 1_73
+  - first:
+      213: 1628828198485911267
+    second: Tentang 1_74
+  - first:
+      213: -9119514163468851571
+    second: Tentang 1_75
+  - first:
+      213: -6855785803029146264
+    second: Tentang 1_76
+  - first:
+      213: 7238670400954121135
+    second: Tentang 1_77
+  - first:
+      213: 1669927106907304357
+    second: Tentang 1_78
+  - first:
+      213: -3383750687545133402
+    second: Tentang 1_79
+  - first:
+      213: 4384542314458747063
+    second: Tentang 1_80
+  - first:
+      213: 3290416048641443179
+    second: Tentang 1_81
+  - first:
+      213: 6033942088143413251
+    second: Tentang 1_82
+  - first:
+      213: 8999950525042097732
+    second: Tentang 1_83
+  - first:
+      213: 5833866573470886056
+    second: Tentang 1_84
+  - first:
+      213: -4737468072308564760
+    second: Tentang 1_85
+  - first:
+      213: -924542219668904007
+    second: Tentang 1_86
+  - first:
+      213: 4949804736931989744
+    second: Tentang 1_87
+  - first:
+      213: 1423572435997936290
+    second: Tentang 1_88
+  - first:
+      213: 218954475204528802
+    second: Tentang 1_89
+  - first:
+      213: 544207839691158956
+    second: Tentang 1_90
+  - first:
+      213: 4421431687320227129
+    second: Tentang 1_91
+  - first:
+      213: 5006505109915862937
+    second: Tentang 1_92
+  - first:
+      213: -2998123050229236151
+    second: Tentang 1_93
+  - first:
+      213: -7074478590757743396
+    second: Tentang 1_94
+  - first:
+      213: 8889917227076749193
+    second: Tentang 1_95
+  - first:
+      213: -3541747135638097370
+    second: Tentang 1_96
+  - first:
+      213: -7693408784308010152
+    second: Tentang 1_97
+  - first:
+      213: 4240973735918937355
+    second: Tentang 1_98
+  - first:
+      213: -3809150839743327765
+    second: Tentang 1_99
+  - first:
+      213: -1702583016036616321
+    second: Tentang 1_100
+  - first:
+      213: 6159012037832075310
+    second: Tentang 1_101
+  - first:
+      213: 2360775285562272846
+    second: Tentang 1_102
+  - first:
+      213: -5420865974036738531
+    second: Tentang 1_103
+  - first:
+      213: 4928451349715750042
+    second: Tentang 1_104
+  - first:
+      213: -4219874809472887754
+    second: Tentang 1_105
+  - first:
+      213: -4400817508807605980
+    second: Tentang 1_106
+  - first:
+      213: -2675792748110015572
+    second: Tentang 1_107
+  - first:
+      213: 7327151136036395835
+    second: Tentang 1_108
+  - first:
+      213: 4591054484341959317
+    second: Tentang 1_109
+  - first:
+      213: 8117080158894834673
+    second: Tentang 1_110
+  - first:
+      213: 6383652680193869203
+    second: Tentang 1_111
+  - first:
+      213: 7387007202615782124
+    second: Tentang 1_112
+  - first:
+      213: -4794373755234419869
+    second: Tentang 1_113
+  - first:
+      213: -5928977216872230347
+    second: Tentang 1_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tentang 1_0
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1293
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35ec70e05b66fc0800000000000000
+      internalID: -3501912588368849970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_1
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1335
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980fa305f26775070800000000000000
+      internalID: 8095068800803336329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_2
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1293
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd4bb4955778ae90800000000000000
+      internalID: -7014225210178318914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1293
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6aaf22a7059e90800000000000000
+      internalID: -7019696051021255577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_4
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1293
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b686e7670f1c70800000000000000
+      internalID: 8943875527811706997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_5
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1293
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b3fb86136872f80800000000000000
+      internalID: -8131383055425258747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_6
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1292
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c52238e48a6330800000000000000
+      internalID: 3704919776274270194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1293
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3855fb18be1cb20800000000000000
+      internalID: 3153060156629418933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1293
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fed47a4ae049de0800000000000000
+      internalID: -1327419889823125627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_9
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1293
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e03e64d8d910f40800000000000000
+      internalID: 5693004634078252696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_10
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1293
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70eaec8c23d5230800000000000000
+      internalID: 3629112712772847567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_11
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 531
+        width: 536
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4c884fb3460ad20800000000000000
+      internalID: 3287737936648914117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 267
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1bf0bfd3da7b0d0800000000000000
+      internalID: -3407064111365770805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_13
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d799cb6d3933ee0800000000000000
+      internalID: -1282518918373999311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_14
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 267
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2122153a99ba70800000000000000
+      internalID: 8843268896046787193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_15
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1e4060956e1300800000000000000
+      internalID: 224728702180531601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58790b8bc30e38530800000000000000
+      internalID: 3856172257360516997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_17
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 256
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3d0a3c20083670800000000000000
+      internalID: 8518558885123799799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_18
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 266
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef117fc46d6d869a0800000000000000
+      internalID: -6239501067819216386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_19
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e13569405113110800000000000000
+      internalID: 1238794481949679168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_20
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 267
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018e1367c621a680800000000000000
+      internalID: -8745666363573501684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_21
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 267
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9105ea0d73ae85b0800000000000000
+      internalID: -5364170348702662241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_22
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 267
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130c3e12d27a6c40800000000000000
+      internalID: 5506339741189800732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_23
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d59f06b5dfed770800000000000000
+      internalID: 8637619704253996321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_24
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 267
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872ab64ec5c16a10800000000000000
+      internalID: 1901018007467599744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_25
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 267
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3ca9f0c6ebe5a0800000000000000
+      internalID: -6490840721427513579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 267
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e855fcd7ac4daa0800000000000000
+      internalID: -6137057750500929931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 203
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484683a641ea5b60800000000000000
+      internalID: 7735743003469695040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24432d0cdd8a28ec0800000000000000
+      internalID: -3566102284547771326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 203
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897aec18b7d275d90800000000000000
+      internalID: -7109163478299007080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559bae32d00c0c00800000000000000
+      internalID: 868069731170227541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_31
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014693bc0038d5a0800000000000000
+      internalID: -6496389631371230972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_32
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4edd077eac6c30800000000000000
+      internalID: 4354046766117441297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_33
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1fb435db38d800800000000000000
+      internalID: 637325134171937298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 202
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e9c81a2291b99b0800000000000000
+      internalID: -5072432918772802002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_35
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 203
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc28a30762b5fb50800000000000000
+      internalID: 6626398582258281678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_36
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 203
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a44aa41f89c5d0800000000000000
+      internalID: -3041742754393315126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 203
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68fdda9ea6167f0800000000000000
+      internalID: -621097721723386192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f673f317e7df020800000000000000
+      internalID: 2377195203178491802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_39
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 203
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da5a64495424bd0800000000000000
+      internalID: -2647477127797691015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_40
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded622637623d330800000000000000
+      internalID: 3734370793030082264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_41
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 203
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f687d38bd13212e0800000000000000
+      internalID: -2156606452677507337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_42
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd975fb41b95b220800000000000000
+      internalID: 2501075681486020028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_43
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 203
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1aac14946a71660800000000000000
+      internalID: 7356531349899616737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_44
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b4ac6caf4ab1c00800000000000000
+      internalID: 872472349810248516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_45
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 203
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d210f6b0a6e91c90800000000000000
+      internalID: -7198468951436684591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_46
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 202
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462ea8d423c65090800000000000000
+      internalID: -8046029121229281726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_47
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 203
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab66839f8a23e80800000000000000
+      internalID: -8200306183141672402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_48
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 193
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badbe87059e6860f0800000000000000
+      internalID: -1123526520672961109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_49
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 203
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8431a5a18f7450800000000000000
+      internalID: 6088727769602362293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_50
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8df6a1791051ac0800000000000000
+      internalID: -3885197355041957700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_51
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea0e90073727fb0800000000000000
+      internalID: -4651528540081049890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_52
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 203
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc3447a93762740800000000000000
+      internalID: 5126912333020646782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_53
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 203
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e8eb9c6e86b4a80800000000000000
+      internalID: -8481570132785721744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_54
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 203
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6ebf661e3890c0800000000000000
+      internalID: -4568833555882414345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_55
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 202
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af80f312b385f7270800000000000000
+      internalID: 8250410053350131962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_56
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 203
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c526f38f48499410800000000000000
+      internalID: 1484297058548852164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_57
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66c3709203c16c0800000000000000
+      internalID: -4171406202078730545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_58
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7eaabf1635be840800000000000000
+      internalID: 5254385070557030334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_59
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49616e70e82048ea0800000000000000
+      internalID: -5871565205143153004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_60
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 203
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5b2d4730e9cd8e0800000000000000
+      internalID: -1667284024351869535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_61
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 203
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01f784bb69301e50800000000000000
+      internalID: 6777980573945688332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_62
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 203
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2358c36b4be09b0800000000000000
+      internalID: -5111949832226524420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_63
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 203
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b582e951bdfc64d0800000000000000
+      internalID: -3139855902025022023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_64
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 203
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be643c7848bd084b0800000000000000
+      internalID: -5440106987603671317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_65
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8266e29bb1ced99e0800000000000000
+      internalID: -1612873487713671640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_66
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 139
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c33d382f2536f00800000000000000
+      internalID: 1108821134810496099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_67
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 139
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7372040b2f4d9bf70800000000000000
+      internalID: 9203621452312487735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_68
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e319a950fa02200800000000000000
+      internalID: 153314825933504122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_69
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 139
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35055c4eff37baa0800000000000000
+      internalID: -6145372805088869058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_70
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 139
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674022729b1f97a0800000000000000
+      internalID: -6368341032284698778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_71
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 139
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53bab9f0fe9287c0800000000000000
+      internalID: -4070516355370405026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_72
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 139
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c9f641bf6683900800000000000000
+      internalID: 664394173602831510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_73
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 139
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e5b954d448fe40800000000000000
+      internalID: 5690373808011468955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_74
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 139
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e664eadd92ca9610800000000000000
+      internalID: 1628828198485911267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_75
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ab428f2af07180800000000000000
+      internalID: -9119514163468851571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_76
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 139
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865184ab22b5bd0a0800000000000000
+      internalID: -6855785803029146264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_77
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 139
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab3107a06ce47460800000000000000
+      internalID: 7238670400954121135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_78
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 139
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a171082bd5cc2710800000000000000
+      internalID: 1669927106907304357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_79
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 139
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a673647da08a01d0800000000000000
+      internalID: -3383750687545133402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_80
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 139
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b09bf3310609dc30800000000000000
+      internalID: 4384542314458747063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_81
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 139
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65848e76f7e9ad20800000000000000
+      internalID: 3290416048641443179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_82
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 139
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30021172c5edcb350800000000000000
+      internalID: 6033942088143413251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_83
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7939915f36ec70800000000000000
+      internalID: 8999950525042097732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_84
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 139
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8e1ca4dbe06f050800000000000000
+      internalID: 5833866573470886056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_85
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 138
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1b4f63e1214eb0800000000000000
+      internalID: -4737468072308564760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_86
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 139
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a8c8efbd5b23f0800000000000000
+      internalID: -924542219668904007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_87
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 129
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8806cde2d31b440800000000000000
+      internalID: 4949804736931989744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_88
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 139
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac1bf869b81c310800000000000000
+      internalID: 1423572435997936290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_89
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 139
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4c846fe1e90300800000000000000
+      internalID: 218954475204528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_90
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 139
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca536c8952a6d8700800000000000000
+      internalID: 544207839691158956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_91
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 139
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc061a1b41c5d30800000000000000
+      internalID: 4421431687320227129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_92
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 75
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99786b23fddaa7540800000000000000
+      internalID: 5006505109915862937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_93
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 75
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94efc2678f68466d0800000000000000
+      internalID: -2998123050229236151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_94
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 75
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd457c2343762dd90800000000000000
+      internalID: -7074478590757743396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_95
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 75
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98709820e945f5b70800000000000000
+      internalID: 8889917227076749193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_96
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 75
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b800cebf29dec0800000000000000
+      internalID: -3541747135638097370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_97
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 75
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853837bd8758b3590800000000000000
+      internalID: -7693408784308010152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_98
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a537a427fada30800000000000000
+      internalID: 4240973735918937355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_99
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 75
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d7353e7d232bc0800000000000000
+      internalID: -3809150839743327765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_100
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 75
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77368084c53f58e0800000000000000
+      internalID: -1702583016036616321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_101
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 75
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28e55a01d4397550800000000000000
+      internalID: 6159012037832075310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_102
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce5724d9823c020800000000000000
+      internalID: 2360775285562272846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_103
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec98a1e1735c4b0800000000000000
+      internalID: -5420865974036738531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_104
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 75
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0a98f360656440800000000000000
+      internalID: 4928451349715750042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_105
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 75
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634dfb8f73eff65c0800000000000000
+      internalID: -4219874809472887754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_106
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4210432dac72de2c0800000000000000
+      internalID: -4400817508807605980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_107
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 74
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3165c2cacaddad0800000000000000
+      internalID: -2675792748110015572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_108
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 75
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9c0723254fa560800000000000000
+      internalID: 7327151136036395835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_109
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 75
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aaaa3aab3b6bf30800000000000000
+      internalID: 4591054484341959317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_110
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 75
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f34c4cf569a5a070800000000000000
+      internalID: 8117080158894834673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_111
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950d646a4a479850800000000000000
+      internalID: 6383652680193869203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_112
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 75
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6a29a9ebe38660800000000000000
+      internalID: 7387007202615782124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_113
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 75
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bfbc6a876f67db0800000000000000
+      internalID: -4794373755234419869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentang 1_114
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 75
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53252f262aa08bda0800000000000000
+      internalID: -5928977216872230347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tentang 1_0: -3501912588368849970
+      Tentang 1_1: 8095068800803336329
+      Tentang 1_10: 3629112712772847567
+      Tentang 1_100: -1702583016036616321
+      Tentang 1_101: 6159012037832075310
+      Tentang 1_102: 2360775285562272846
+      Tentang 1_103: -5420865974036738531
+      Tentang 1_104: 4928451349715750042
+      Tentang 1_105: -4219874809472887754
+      Tentang 1_106: -4400817508807605980
+      Tentang 1_107: -2675792748110015572
+      Tentang 1_108: 7327151136036395835
+      Tentang 1_109: 4591054484341959317
+      Tentang 1_11: 3287737936648914117
+      Tentang 1_110: 8117080158894834673
+      Tentang 1_111: 6383652680193869203
+      Tentang 1_112: 7387007202615782124
+      Tentang 1_113: -4794373755234419869
+      Tentang 1_114: -5928977216872230347
+      Tentang 1_12: -3407064111365770805
+      Tentang 1_13: -1282518918373999311
+      Tentang 1_14: 8843268896046787193
+      Tentang 1_15: 224728702180531601
+      Tentang 1_16: 3856172257360516997
+      Tentang 1_17: 8518558885123799799
+      Tentang 1_18: -6239501067819216386
+      Tentang 1_19: 1238794481949679168
+      Tentang 1_2: -7014225210178318914
+      Tentang 1_20: -8745666363573501684
+      Tentang 1_21: -5364170348702662241
+      Tentang 1_22: 5506339741189800732
+      Tentang 1_23: 8637619704253996321
+      Tentang 1_24: 1901018007467599744
+      Tentang 1_25: -6490840721427513579
+      Tentang 1_26: -6137057750500929931
+      Tentang 1_27: 7735743003469695040
+      Tentang 1_28: -3566102284547771326
+      Tentang 1_29: -7109163478299007080
+      Tentang 1_3: -7019696051021255577
+      Tentang 1_30: 868069731170227541
+      Tentang 1_31: -6496389631371230972
+      Tentang 1_32: 4354046766117441297
+      Tentang 1_33: 637325134171937298
+      Tentang 1_34: -5072432918772802002
+      Tentang 1_35: 6626398582258281678
+      Tentang 1_36: -3041742754393315126
+      Tentang 1_37: -621097721723386192
+      Tentang 1_38: 2377195203178491802
+      Tentang 1_39: -2647477127797691015
+      Tentang 1_4: 8943875527811706997
+      Tentang 1_40: 3734370793030082264
+      Tentang 1_41: -2156606452677507337
+      Tentang 1_42: 2501075681486020028
+      Tentang 1_43: 7356531349899616737
+      Tentang 1_44: 872472349810248516
+      Tentang 1_45: -7198468951436684591
+      Tentang 1_46: -8046029121229281726
+      Tentang 1_47: -8200306183141672402
+      Tentang 1_48: -1123526520672961109
+      Tentang 1_49: 6088727769602362293
+      Tentang 1_5: -8131383055425258747
+      Tentang 1_50: -3885197355041957700
+      Tentang 1_51: -4651528540081049890
+      Tentang 1_52: 5126912333020646782
+      Tentang 1_53: -8481570132785721744
+      Tentang 1_54: -4568833555882414345
+      Tentang 1_55: 8250410053350131962
+      Tentang 1_56: 1484297058548852164
+      Tentang 1_57: -4171406202078730545
+      Tentang 1_58: 5254385070557030334
+      Tentang 1_59: -5871565205143153004
+      Tentang 1_6: 3704919776274270194
+      Tentang 1_60: -1667284024351869535
+      Tentang 1_61: 6777980573945688332
+      Tentang 1_62: -5111949832226524420
+      Tentang 1_63: -3139855902025022023
+      Tentang 1_64: -5440106987603671317
+      Tentang 1_65: -1612873487713671640
+      Tentang 1_66: 1108821134810496099
+      Tentang 1_67: 9203621452312487735
+      Tentang 1_68: 153314825933504122
+      Tentang 1_69: -6145372805088869058
+      Tentang 1_7: 3153060156629418933
+      Tentang 1_70: -6368341032284698778
+      Tentang 1_71: -4070516355370405026
+      Tentang 1_72: 664394173602831510
+      Tentang 1_73: 5690373808011468955
+      Tentang 1_74: 1628828198485911267
+      Tentang 1_75: -9119514163468851571
+      Tentang 1_76: -6855785803029146264
+      Tentang 1_77: 7238670400954121135
+      Tentang 1_78: 1669927106907304357
+      Tentang 1_79: -3383750687545133402
+      Tentang 1_8: -1327419889823125627
+      Tentang 1_80: 4384542314458747063
+      Tentang 1_81: 3290416048641443179
+      Tentang 1_82: 6033942088143413251
+      Tentang 1_83: 8999950525042097732
+      Tentang 1_84: 5833866573470886056
+      Tentang 1_85: -4737468072308564760
+      Tentang 1_86: -924542219668904007
+      Tentang 1_87: 4949804736931989744
+      Tentang 1_88: 1423572435997936290
+      Tentang 1_89: 218954475204528802
+      Tentang 1_9: 5693004634078252696
+      Tentang 1_90: 544207839691158956
+      Tentang 1_91: 4421431687320227129
+      Tentang 1_92: 5006505109915862937
+      Tentang 1_93: -2998123050229236151
+      Tentang 1_94: -7074478590757743396
+      Tentang 1_95: 8889917227076749193
+      Tentang 1_96: -3541747135638097370
+      Tentang 1_97: -7693408784308010152
+      Tentang 1_98: 4240973735918937355
+      Tentang 1_99: -3809150839743327765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

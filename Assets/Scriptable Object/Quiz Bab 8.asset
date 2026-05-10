@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 8
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Bumi tempat kita tinggal selalu mengalami perubahan. Terkadang,
+      perubahan ini terjadi secara alami karena aktivitas di dalam Bumi tanpa campur
+      tangan manusia. Penyebab perubahan alami ini disebut....
+    choiceA: Peristiwa alam
+    choiceB: Perbuatan manusia
+    choiceC: Pembangunan pabrik
+    choiceD: Polusi udara
+    correctChoiceIndex: 0
+  - questionText: ' Peristiwa alam, seperti gempa atau gunung meletus, dapat disebut
+      sebagai sebuah "bencana alam" apabila....'
+    choiceA: Mengancam dan membawa kerugian bagi kehidupan manusia
+    choiceB: Terjadi di tengah hutan belantara yang kosong
+    choiceC: Menimbulkan pemandangan yang indah di langit
+    choiceD: Terjadi di malam hari saat manusia sedang tidur
+    correctChoiceIndex: 0
+  - questionText: Tahukah kamu bahwa bagian kerak Bumi kita terbagi menjadi potongan-potongan
+      seperti kepingan puzzle raksasa yang padat dan terus bergerak? Kepingan ini
+      disebut....
+    choiceA: Lempeng tektonik
+    choiceB: Inti Bumi
+    choiceC: Lapisan atmosfer
+    choiceD: Magma cair
+    correctChoiceIndex: 0
+  - questionText: Lempeng tektonik di bawah tanah selalu bergerak secara perlahan.
+      Namun, jika pergerakannya saling bergesekan atau bertabrakan dengan kuat hingga
+      melepaskan energi yang besar, maka akan menyebabkan guncangan yang disebut....
+    choiceA: Gempa Bumi
+    choiceB: Hujan badai
+    choiceC: Pelangi kembar
+    choiceD: Angin puting beliung
+    correctChoiceIndex: 0
+  - questionText: Gempa Bumi yang sangat kuat atau letusan gunung api yang terjadi
+      di dasar laut bisa sangat berbahaya karena dapat memicu gelombang laut yang
+      sangat dahsyat dan tinggi menuju daratan. Bencana ini disebut....
+    choiceA: Tsunami
+    choiceB: Angin puting beliung
+    choiceC: Badai petir
+    choiceD: Banjir bandang
+    correctChoiceIndex: 0
+  - questionText: Selain bencana dari laut dan tanah, ada juga peristiwa alam yang
+      asalnya dari udara. Peristiwa angin yang berputar sangat cepat dan memiliki
+      tekanan yang sangat tinggi disebut....
+    choiceA: Angin puting beliung
+    choiceB: 'Tsunami '
+    choiceC: Gempa Bumi
+    choiceD: Gunung meletus
+    correctChoiceIndex: 0
+  - questionText: Saat gunung api sedang aktif dan mengalami letusan (erupsi), gunung
+      tersebut akan mengeluarkan hal-hal yang berbahaya bagi manusia, yaitu....
+    choiceA: Awan panas, hujan abu, lava, dan gas beracun
+    choiceB: 'Angin kencang dan badai air '
+    choiceC: Hujan es dan badai salju
+    choiceD: Tsunami dan gelombang laut
+    correctChoiceIndex: 0
+  - questionText: Pernahkah kamu mendengar kata lahar? Lahar adalah lumpur batu atau
+      cairan panas yang keluar dari kawah gunung berapi saat meletus. Nama lain dari
+      lahar yang panas ini adalah....
+    choiceA: Lava
+    choiceB: Awan panas
+    choiceC: Abu vulkanik
+    choiceD: Asap beracun
+    correctChoiceIndex: 0
+  - questionText: Selain karena peristiwa alam, perubahan bentuk permukaan Bumi dan
+      kerusakan lingkungan juga bisa terjadi dengan sangat cepat akibat....
+    choiceA: Aktivitas manusia untuk memenuhi kebutuhan hidupnya secara berlebihan
+    choiceB: Angin kencang yang bertiup dari lautan
+    choiceC: Hewan-hewan liar yang mencari makan di hutan
+    choiceD: Sinar Matahari yang terlalu terik di siang hari
+    correctChoiceIndex: 0
+  - questionText: Semua kegiatan manusia untuk memenuhi kebutuhannya, seperti memasak,
+      berbelanja, atau membangun rumah, pasti akan menghasilkan suatu benda sisa
+      buangan yang disebut....
+    choiceA: Sampah
+    choiceB: Barang antik
+    choiceC: Pakaian baru
+    choiceD: Mainan anak
+    correctChoiceIndex: 0
+  - questionText: Ada satu jenis sampah yang sangat berbahaya bagi kelestarian Bumi
+      karena sifatnya yang sangat sulit terurai dan butuh waktu ratusan tahun untuk
+      hancur di alam. Sampah apakah itu?
+    choiceA: Sampah plastik
+    choiceB: Sampah daun kering
+    choiceC: Sampah sisa makanan (organik)
+    choiceD: Sampah potongan sayur dan kulit buah
+    correctChoiceIndex: 0
+  - questionText: Saat sampah plastik yang ada di tanah atau laut hancur, ia akan
+      menjadi potongan yang sangat amat kecil (kurang dari 5 milimeter). Potongan
+      ini sangat berbahaya bagi kesehatan jika tidak sengaja termakan oleh ikan atau
+      hewan laut. Potongan ini disebut....
+    choiceA: Mikroplastik
+    choiceB: 'Makroplastik '
+    choiceC: Plastik raksasa
+    choiceD: Debu tanah
+    correctChoiceIndex: 0
+  - questionText: Untuk mengurangi tumpukan sampah plastik, kita bisa menerapkan
+      cara 3R. Salah satunya adalah memanfaatkan botol plastik bekas minuman menjadi
+      barang yang berguna seperti pot tanaman. Tindakan ini disebut....
+    choiceA: Reuse (menggunakan kembali)
+    choiceB: Reduce (mengurangi)
+    choiceC: Recycle (mendaur ulang)
+    choiceD: Replace (mengganti)
+    correctChoiceIndex: 0
+  - questionText: 'Saat berbelanja ke pasar, Ibu lebih memilih menggunakan tas kain
+      yang bisa dipakai berulang-ulang daripada meminta kantong plastik belanjaan
+      baru. Tindakan Ibu ini menerapkan prinsip 3R, yaitu.... '
+    choiceA: "Reduce (mengurangi sampah)\r"
+    choiceB: Reuse (menggunakan kembali)
+    choiceC: Recycle (mendaur ulang)
+    choiceD: Replant (menanam kembali)
+    correctChoiceIndex: 0
+  - questionText: Buku-buku bekas, botol plastik, atau kaleng bekas yang sudah menumpuk
+      bisa dihancurkan dan diolah lagi di pabrik untuk dijadikan benda baru yang
+      bernilai. Proses mengolah sampah menjadi barang baru ini disebut....
+    choiceA: Recycle (mendaur ulang)
+    choiceB: Reduce (mengurangi)
+    choiceC: Reuse (menggunakan kembali)
+    choiceD: Repair (memperbaiki)
+    correctChoiceIndex: 0
+  - questionText: Salah satu masalah lingkungan yang sangat merusak Bumi adalah kegiatan
+      menebang pohon di hutan secara besar-besaran untuk diambil kayunya atau untuk
+      membuka lahan. Penggundulan hutan ini dinamakan....
+    choiceA: Deforestasi
+    choiceB: 'Reboisasi '
+    choiceC: 'Terasering '
+    choiceD: Irigasi sawah
+    correctChoiceIndex: 0
+  - questionText: Apa bahaya utama yang akan terjadi jika manusia terus-menerus melakukan
+      penggundulan hutan (deforestasi) tanpa menanamnya kembali?
+    choiceA: Berkurangnya oksigen di udara dan rawan terjadi banjir saat hujan turun
+    choiceB: Udara menjadi lebih segar, bersih, dan sejuk bagi manusia
+    choiceC: Hewan-hewan hutan menjadi semakin banyak dan punya tempat tinggal luas
+    choiceD: Cadangan air bersih menjadi semakin melimpah untuk kita minum
+    correctChoiceIndex: 0
+  - questionText: Selain menghasilkan oksigen, mengapa keberadaan hutan dan pohon
+      sangat penting bagi ketersediaan air bersih di Bumi kita?
+    choiceA: Karena hutan berperan melindungi, memurnikan air secara alami, dan menyimpan
+      sumber air di akar pohonnya
+    choiceB: Karena hutan menghasilkan air asin yang rasanya seperti air laut
+    choiceC: Karena di dalam hutan tidak pernah turun hujan sama sekali
+    choiceD: Karena hutan menyerap air lalu membuangnya ke luar angkasa
+    correctChoiceIndex: 0
+  - questionText: Manusia tidak akan bisa hidup jika tidak ada alam dan Bumi kita
+      yang sehat. Mengapa manusia sangat bergantung pada Bumi?
+    choiceA: Karena Bumi senantiasa menyediakan makanan, udara bersih, tanah, dan
+      air untuk manusia hidup
+    choiceB: Karena Bumi bisa membagikan emas dan perhiasan berlimpah untuk semua
+      orang setiap hari
+    choiceC: Karena Bumi bisa menciptakan sampah plastik secara alami
+    choiceD: Karena Bumi sudah dipenuhi oleh gedung bertingkat tinggi tanpa perlu
+      dibangun
+    correctChoiceIndex: 0
+  - questionText: Setelah mengetahui berbagai bencana dan kerusakan yang terjadi
+      pada Bumi, sikap paling bijak yang wajib kita lakukan sebagai anak-anak yang
+      menyayangi Bumi adalah....
+    choiceA: Menjaga kelestarian lingkungan alam di sekitar kita dan mulai mengurangi
+      penggunaan plastik
+    choiceB: Membuang sampah plastik ke sungai agar hanyut dan cepat hilang dari
+      rumah
+    choiceC: Membiarkan semua pohon ditebang habis agar kita bisa membangun mal yang
+      besar
+    choiceD: Membakar tumpukan sampah plastik di halaman rumah setiap sore hari
+    correctChoiceIndex: 0

@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 6
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Gambaran permukaan Bumi pada bidang datar dengan menggunakan ukuran
+      atau perbandingan (skala) tertentu disebut dengan....
+    choiceA: 'Peta '
+    choiceB: 'Globe '
+    choiceC: 'Lukisan '
+    choiceD: Foto pemandangan
+    correctChoiceIndex: 0
+  - questionText: 'Di dalam sebuah peta, terdapat bagian penting yang berfungsi untuk
+      menjelaskan arti dari simbol-simbol atau tanda berupa gambar yang ada di peta
+      tersebut. Bagian ini dinamakan.... '
+    choiceA: 'Legenda '
+    choiceB: Judul peta
+    choiceC: Arah mata angin
+    choiceD: Skala
+    correctChoiceIndex: 0
+  - questionText: 'Jika di sebuah peta tertulis skala 1:100.000, itu berarti setiap
+      jarak 1 cm pada gambar di peta sama dengan jarak aslinya di Bumi sejauh.... '
+    choiceA: 100.000 cm atau setara 1 kilometer
+    choiceB: 1.000 cm atau setara 10 meter
+    choiceC: 10.000 cm atau setara 100 meter
+    choiceD: 1.000.000 cm atau setara 10 kilometer
+    correctChoiceIndex: 0
+  - questionText: Negara Indonesia memiliki wilayah perairan (lautan) yang sangat
+      luas sehingga sebagian masyarakatnya memanfaatkan kekayaan laut untuk hidup.
+      Oleh karena itu, Indonesia sering disebut sebagai negara....
+    choiceA: 'Maritim '
+    choiceB: 'Agraris '
+    choiceC: 'Benua '
+    choiceD: Daratan
+    correctChoiceIndex: 0
+  - questionText: Selain memiliki lautan yang luas, tanah di Indonesia juga sangat
+      subur dan mendapatkan sinar Matahari yang cukup. Hal ini membuat banyak penduduk
+      bekerja sebagai petani dan pekebun. Kondisi ini menjadikan Indonesia dikenal
+      sebagai negara....
+    choiceA: 'Agraris '
+    choiceB: 'Industri '
+    choiceC: 'Maritim '
+    choiceD: Perdagangan
+    correctChoiceIndex: 0
+  - questionText: Perbedaan berbagai jenis makhluk hidup di suatu daerah, seperti
+      adanya tumbuhan, hewan, dan berbagai ekosistem tempat mereka tinggal dinamakan
+      dengan....
+    choiceA: Keanekaragaman hayati
+    choiceB: Kekayaan laut
+    choiceC: Hasil tambang
+    choiceD: Cagar alam
+    correctChoiceIndex: 0
+  - questionText: Wilayah Indonesia terbagi menjadi tiga kelompok flora dan fauna.
+      Contoh hewan yang hidup dan berasal dari wilayah Indonesia bagian Barat (Asiatis)
+      adalah....
+    choiceA: Gajah, Harimau Sumatera, Orang Utan, dan Badak
+    choiceB: Burung Cendrawasih, Kakatua, dan Walaby (sejenis kanguru kecil)
+    choiceC: Komodo, Anoa, dan Babi Rusa
+    choiceD: Kanguru, Singa, dan Beruang Kutub
+    correctChoiceIndex: 0
+  - questionText: Hewan-hewan bersayap indah seperti burung Cendrawasih, Maleo, dan
+      Kakatua banyak ditemukan hidup bebas di wilayah Indonesia bagian....
+    choiceA: Timur (Australis)
+    choiceB: Barat (Asiatis)
+    choiceC: Tengah (Peralihan)
+    choiceD: Utara
+    correctChoiceIndex: 0
+  - questionText: Hewan unik dan langka seperti Komodo, Anoa, dan Babi Rusa adalah
+      contoh hewan endemik yang menjadi ciri khas satwa di wilayah....
+    choiceA: Indonesia bagian Tengah (Peralihan)
+    choiceB: Indonesia bagian Barat
+    choiceC: Indonesia bagian Timur
+    choiceD: Kepulauan luar negeri
+    correctChoiceIndex: 0
+  - questionText: Segala sesuatu dari kekayaan alam yang bisa kita manfaatkan untuk
+      memenuhi kebutuhan hidup kita sehari-hari disebut....
+    choiceA: Sumber Daya Alam (SDA)
+    choiceB: Harta karun
+    choiceC: Barang tambang
+    choiceD: Bahan buatan pabrik
+    correctChoiceIndex: 0
+  - questionText: Sumber daya alam dibedakan menjadi hayati (makhluk hidup) dan nonhayati
+      (benda tak hidup). Manakah di bawah ini yang merupakan kelompok sumber daya
+      alam nonhayati?
+    choiceA: Matahari, air, dan tanah
+    choiceB: Tumbuhan, hewan, dan air
+    choiceC: Hutan bakau, ikan, dan sapi
+    choiceD: Padi, rumput laut, dan udang
+    correctChoiceIndex: 0
+  - questionText: Ada sumber daya alam yang bisa dihasilkan atau dibudidayakan kembali
+      jika sudah dipakai, contohnya tanaman sayur dan ayam ternak. Sumber daya alam
+      jenis ini disebut....
+    choiceA: Sumber daya alam yang dapat diperbarui
+    choiceB: Sumber daya alam yang tidak dapat diperbarui
+    choiceC: Sumber daya alam langka
+    choiceD: Sumber daya alam buatan
+    correctChoiceIndex: 0
+  - questionText: Benda-benda seperti minyak bumi, gas alam, emas, dan besi lama-kelamaan
+      akan habis jika dipakai terus-menerus dan butuh waktu jutaan tahun untuk ada
+      lagi. Benda-benda tambang ini termasuk sumber daya alam yang....
+    choiceA: Tidak dapat diperbarui
+    choiceB: Dapat diperbarui
+    choiceC: Mudah didaur ulang
+    choiceD: Bisa ditanam kembali
+    correctChoiceIndex: 0
+  - questionText: Di dapur ibumu pasti banyak bumbu-bumbu masakan seperti lada, jahe,
+      kunyit, serai, dan cabai. Bumbu-bumbu khas Indonesia tersebut merupakan contoh
+      pemanfaatan kekayaan alam sebagai sumber....
+    choiceA: Bahan pangan (makanan)
+    choiceB: Pembuat perhiasan
+    choiceC: Bahan bangunan rumah
+    choiceD: Bahan bakar kendaraan
+    correctChoiceIndex: 0
+  - questionText: Barang tambang sangat bermanfaat untuk membuat teknologi. Jenis
+      logam tambang yang sering digunakan sebagai kawat pembuat kabel listrik karena
+      menjadi penghantar listrik yang baik adalah....
+    choiceA: 'Tembaga '
+    choiceB: Emas murni
+    choiceC: Batu bara murni
+    choiceD: Serbuk kayu
+    correctChoiceIndex: 0
+  - questionText: Selain tembaga, ada juga logam besi yang banyak ditemukan di alam.
+      Besi adalah logam yang sangat kuat sehingga sangat bermanfaat untuk....
+    choiceA: Membuat kerangka rumah, jembatan, dan mesin-mesin yang berat
+    choiceB: Membuat perhiasan mewah seperti cincin dan kalung
+    choiceC: 'Menjadi bahan bakar mesin jet pesawat terbang '
+    choiceD: Menjadi bahan utama obat-obatan di rumah sakit
+    correctChoiceIndex: 0
+  - questionText: Minyak bumi yang disedot dari dalam tanah bisa diolah menjadi berbagai
+      macam bentuk bahan bakar untuk transportasi. Bahan bakar khusus hasil olahan
+      minyak bumi yang digunakan untuk mesin pesawat terbang dinamakan....
+    choiceA: 'Avtur '
+    choiceB: 'Bensin '
+    choiceC: Minyak tanah
+    choiceD: Gas elpiji
+    correctChoiceIndex: 0
+  - questionText: Rumput laut dari perairan Indonesia sangat luar biasa! Tidak hanya
+      lezat untuk dimakan, rumput laut saat ini sedang dikembangkan penggunaannya
+      oleh ilmuwan sebagai....
+    choiceA: Bahan pembuat bungkus kemasan yang ramah lingkungan sebagai pengganti
+      plastik
+    choiceB: Bahan bakar pengganti bensin untuk sepeda motor
+    choiceC: Bahan dasar pengganti batu bata untuk membangun rumah
+    choiceD: Bumbu masakan baru yang rasanya sangat amat pedas
+    correctChoiceIndex: 0
+  - questionText: Sangat disayangkan, kelestarian laut dan ikan bisa rusak karena
+      perbuatan manusia yang tidak bertanggung jawab. Contoh perbuatan buruk nelayan
+      yang dapat merusak bentuk terumbu karang di dasar laut adalah....
+    choiceA: Menangkap ikan bergerombol menggunakan bahan peledak (bom rakitan)
+    choiceB: Melakukan penanaman kembali terumbu karang yang rusak
+    choiceC: Menangkap ikan besar hanya dengan menggunakan kail pancing tradisional
+    choiceD: Membersihkan tumpukan sampah plastik yang menutupi laut
+    correctChoiceIndex: 0
+  - questionText: Kekayaan alam dan ragam hewan di Indonesia adalah anugerah Tuhan
+      yang harus kita jaga. Cara paling bijak bagi kita untuk menjaga sumber daya
+      alam tersebut adalah dengan....
+    choiceA: Menggunakan sumber daya alam seperlunya dan ikut mendaur ulang barang
+      agar alam tetap lestari
+    choiceB: Menebang semua pohon besar di hutan untuk dijual agar cepat menjadi
+      kaya
+    choiceC: Membuang sampah dan bahan kimia pabrik ke aliran sungai agar rumah selalu
+      bersih
+    choiceD: Memburu dan mengurung burung-burung langka untuk dijadikan pajangan
+      hewan di rumah
+    correctChoiceIndex: 0

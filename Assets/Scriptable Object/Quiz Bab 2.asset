@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Di alam bebas, makhluk hidup saling bergantung satu sama lain untuk
+      bertahan hidup. Proses urutan makan dan dimakan antarmakhluk hidup ini disebut
+      dengan....
+    choiceA: Rantai makanan
+    choiceB: Proses pertumbuhan
+    choiceC: Perkembangbiakan
+    choiceD: Jaring-jaring kehidupan
+    correctChoiceIndex: 0
+  - questionText: Tumbuhan sangat hebat karena bisa membuat makanannya sendiri. Siapakah
+      sumber energi utama yang membantu tumbuhan memasak makanannya (berfotosintesis)?
+    choiceA: Matahari
+    choiceB: Air hujan
+    choiceC: Angin
+    choiceD: Udara
+    correctChoiceIndex: 0
+  - questionText: Karena bisa menghasilkan makanannya sendiri dan menjadi sumber
+      makanan bagi hewan lain, tumbuhan di dalam rantai makanan berperan sebagai....
+    choiceA: Produsen
+    choiceB: Konsumen tingkat 1
+    choiceC: Konsumen tingkat 2
+    choiceD: Dekomposer (Pengurai)
+    correctChoiceIndex: 0
+  - questionText: Kelinci, belalang, dan ulat memakan tumbuhan untuk mendapatkan
+      energi. Hewan-hewan pemakan tumbuhan (herbivora) ini di dalam rantai makanan
+      berperan sebagai....
+    choiceA: Konsumen tingkat 1
+    choiceB: Konsumen puncak
+    choiceC: Produsen
+    choiceD: Dekomposer
+    correctChoiceIndex: 0
+  - questionText: Dalam ekosistem, ada pahlawan kebersihan yang bertugas menguraikan
+      bangkai hewan dan tumbuhan yang sudah mati agar kembali menjadi nutrisi bagi
+      tanah. Siapakah mereka?
+    choiceA: 'Dekomposer '
+    choiceB: 'Produsen '
+    choiceC: Konsumen tingkat 1
+    choiceD: Hewan karnivora
+    correctChoiceIndex: 0
+  - questionText: Di bawah ini, manakah yang merupakan contoh makhluk hidup yang
+      bertugas sebagai dekomposer atau pengurai?
+    choiceA: Cacing tanah, bakteri, dan jamur
+    choiceB: Padi, rumput, dan pohon pisang
+    choiceC: Elang, singa, dan ular
+    choiceD: Tikus, belalang, dan kelinci
+    correctChoiceIndex: 0
+  - questionText: "Coba bayangkan rantai makanan di sawah: \nPadi -> Tikus -> Ular
+      -> Elang\nJika melihat urutan tersebut, ular mendapatkan energi dengan cara
+      memakan...."
+    choiceA: 'Tikus '
+    choiceB: 'Padi '
+    choiceC: 'Elang '
+    choiceD: Rumput
+    correctChoiceIndex: 0
+  - questionText: Di alam liar, seekor hewan bisa memakan lebih dari satu jenis hewan
+      lain. Gabungan dari beberapa rantai makanan yang saling berhubungan ini disebut....
+    choiceA: Jaring-jaring makanan
+    choiceB: Piramida makanan
+    choiceC: Sarang laba-laba
+    choiceD: Rantai energi
+    correctChoiceIndex: 0
+  - questionText: Mengapa bentuk jaring-jaring makanan jauh lebih rumit dibandingkan
+      rantai makanan biasa?
+    choiceA: Karena satu jenis hewan bisa memakan dan dimakan oleh berbagai macam
+      hewan lain
+    choiceB: Karena semua hewan di hutan hanya memakan rumput saja
+    choiceC: Karena tumbuhan bisa berpindah-pindah tempat
+    choiceD: Karena pengurai bisa memakan makhluk yang masih hidup
+    correctChoiceIndex: 0
+  - questionText: Apa tujuan utama makhluk hidup memakan makhluk hidup lainnya di
+      dalam suatu ekosistem?
+    choiceA: Untuk mendapatkan energi agar bisa bertahan hidup
+    choiceB: Untuk membuktikan siapa hewan yang paling kuat
+    choiceC: Untuk mengubah energi cahaya menjadi air
+    choiceD: Untuk merusak lingkungan sekitarnya
+    correctChoiceIndex: 0
+  - questionText: Saat proses makan dan dimakan terjadi, energi dari makhluk hidup
+      akan berpindah (transfer energi). Energi ini berpindah dari mana ke mana?
+    choiceA: Dari produsen (tumbuhan) ke konsumen (hewan)
+    choiceB: Dari hewan karnivora ke daun-daun
+    choiceC: Dari pengurai ke Matahari
+    choiceD: Dari konsumen puncak ke produsen
+    correctChoiceIndex: 0
+  - questionText: Menurut aturan transfer energi, siapakah yang mendapatkan jumlah
+      energi paling banyak di dalam sebuah ekosistem?
+    choiceA: Tumbuhan (Produsen)
+    choiceB: Konsumen tingkat 1 (Herbivora)
+    choiceC: Konsumen tingkat 2 (Karnivora kecil)
+    choiceD: Konsumen puncak (Karnivora besar)
+    correctChoiceIndex: 0
+  - questionText: Untuk menggambarkan perbandingan jumlah (populasi) makhluk hidup
+      dan perpindahan energinya dari bawah ke atas, para ilmuwan menggunakan sebuah
+      bagan yang disebut....
+    choiceA: Piramida Makanan
+    choiceB: Jaring-jaring Makanan
+    choiceC: Siklus Air
+    choiceD: Rantai Makanan
+    correctChoiceIndex: 0
+  - questionText: Dalam piramida makanan, jika kita melihat dari tingkat bawah ke
+      tingkat paling atas (puncak), jumlah populasi hewannya akan....
+    choiceA: Semakin sedikit
+    choiceB: Semakin banyak
+    choiceC: Tetap sama saja
+    choiceD: Tidak bisa dihitung
+    correctChoiceIndex: 0
+  - questionText: Mengapa jumlah burung elang (konsumen puncak) di alam jauh lebih
+      sedikit dibandingkan jumlah katak atau tikus?
+    choiceA: Karena semakin tinggi tingkatannya, sisa energi yang didapatkan semakin
+      sedikit
+    choiceB: Karena burung elang sering sekali bertelur dan menetas
+    choiceC: Karena elang lebih suka memakan tumbuhan hijau
+    choiceD: Karena ukuran tubuh tikus jauh lebih besar dari elang
+    correctChoiceIndex: 0
+  - questionText: Sebuah ekosistem dikatakan harmonis dan seimbang apabila....
+    choiceA: Semua makhluk hidup yang ada di dalamnya memiliki jumlah yang seimbang
+    choiceB: Hanya ada hewan pemakan daging saja yang hidup di hutan
+    choiceC: Tumbuhan habis terbakar dan mati semuanya
+    choiceD: Semua hewan dimakan habis oleh manusia
+    correctChoiceIndex: 0
+  - questionText: "Coba perhatikan jaring makanan ini: \nBunga -> Kupu-kupu -> Katak
+      -> Ular\nApa yang akan terjadi jika kupu-kupu habis karena ditangkap manusia?"
+    choiceA: atak akan kesulitan mencari makanan karena jumlah kupu-kupu berkurang
+    choiceB: Katak akan berubah menjadi hewan pemakan bunga
+    choiceC: Ular akan semakin bertambah banyak dengan cepat
+    choiceD: Bunga akan mati dan layu
+    correctChoiceIndex: 0
+  - questionText: Jika katak banyak diburu dan dihilangkan dari sawah, apa dampak
+      yang akan terjadi pada serangga seperti belalang?
+    choiceA: Jumlah belalang akan semakin banyak karena musuh yang memakannya berkurang
+    choiceB: Belalang akan ikut musnah bersama dengan katak
+    choiceC: Belalang akan ketakutan dan pergi dari sawah
+    choiceD: Belalang akan memakan tikus dan burung
+    correctChoiceIndex: 0
+  - questionText: Aktivitas manusia yang buruk bisa menyebabkan ekosistem alam menjadi
+      tidak seimbang dan rusak. Salah satu contoh aktivitas buruk tersebut adalah....
+    choiceA: Melakukan penebangan hutan dan perburuan liar secara berlebihan
+    choiceB: Menanam kembali pohon yang sudah ditebang (reboisasi)
+    choiceC: Membuang sampah di tempat sampah
+    choiceD: Melindungi hewan langka agar tidak punah
+    correctChoiceIndex: 0
+  - questionText: Manusia sangat bergantung pada alam karena kita mendapatkan makanan
+      dari hewan dan tumbuhan. Oleh karena itu, kita sebagai manusia wajib....
+    choiceA: Menjaga dan merawat kelestarian alam beserta isinya
+    choiceB: Membakar hutan untuk dijadikan tempat membuang sampah
+    choiceC: Membuang limbah dan sampah plastik ke laut
+    choiceD: "Menangkap ikan kecil di sungai menggunakan racun\r"
+    correctChoiceIndex: 0

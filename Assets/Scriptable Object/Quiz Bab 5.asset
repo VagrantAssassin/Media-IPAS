@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 5
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Saat kita bernapas, tubuh kita menghirup gas yang sangat penting
+      dari udara agar kita bisa hidup dan beraktivitas. Gas apakah itu?
+    choiceA: Oksigen
+    choiceB: Karbon dioksida
+    choiceC: Karbon monoksida
+    choiceD: Asap knalpot
+    correctChoiceIndex: 0
+  - questionText: 'Bagian tubuh tempat pertama kali udara masuk ke tubuh dan memiliki
+      bulu-bulu halus untuk menyaring kotoran dari udara adalah.... '
+    choiceA: 'Hidung '
+    choiceB: 'Mulut '
+    choiceC: 'Tenggorokan '
+    choiceD: Paru-paru
+    correctChoiceIndex: 0
+  - questionText: Di dalam paru-paru kita, terdapat kantung-kantong kecil mirip anggur
+      yang menjadi tempat bertukarnya gas oksigen dan karbon dioksida. Bagian ini
+      disebut....
+    choiceA: 'Alveoli '
+    choiceB: 'Bronkus '
+    choiceC: 'Trakea '
+    choiceD: Diafragma
+    correctChoiceIndex: 0
+  - questionText: Otot pembatas antara rongga dada dan perut yang sangat penting
+      untuk membantu paru-paru mengembang dan mengempis saat kita bernapas disebut....
+    choiceA: 'Diafragma '
+    choiceB: 'Jantung '
+    choiceC: 'Usus halus '
+    choiceD: Tulang rusuk
+    correctChoiceIndex: 0
+  - questionText: Pernahkah kamu tersedak saat makan sambil berbicara? Saat ada makanan
+      yang salah masuk ke saluran pernapasan, tubuh kita akan otomatis melakukan
+      sesuatu untuk menolak benda asing itu agar tidak masuk ke paru-paru. Reaksi
+      tersebut adalah....
+    choiceA: 'Batuk '
+    choiceB: 'Tertawa '
+    choiceC: 'Menguap '
+    choiceD: Menangis
+    correctChoiceIndex: 0
+  - questionText: 'Penyakit gangguan pernapasan sangat beragam. Ada penyakit menular
+      yang diakibatkan oleh bakteri sehingga penderitanya batuk terus-menerus dan
+      terkadang hingga berdarah. Penyakit ini disebut.... '
+    choiceA: Tuberkulosis (TBC)
+    choiceB: Influenza (Flu)
+    choiceC: 'Asma '
+    choiceD: Maag
+    correctChoiceIndex: 0
+  - questionText: Selain TBC, ada juga penyakit peradangan pada cabang saluran paru-paru
+      yang membuat penderitanya mengalami batuk berdahak kental. Penyakit pernapasan
+      ini disebut dengan....
+    choiceA: 'Bronkitis '
+    choiceB: Sakit gigi
+    choiceC: Rabun jauh
+    choiceD: Demam berdarah
+    correctChoiceIndex: 0
+  - questionText: Tubuh kita ibarat sebuah mesin yang tidak akan bisa bergerak jika
+      tidak diberi bahan bakar. Dari manakah tubuh kita mendapatkan "bahan bakar"
+      atau energi tersebut?
+    choiceA: Dari makanan dan minuman yang kita konsumsi
+    choiceB: Dari udara dingin di malam hari
+    choiceC: Dari tidur sepanjang hari
+    choiceD: Dari berjemur di bawah sinar Matahari terus-menerus
+    correctChoiceIndex: 0
+  - questionText: Proses perjalanan pencernaan pertama kali dibantu oleh gigi untuk
+      mengunyah dan air ludah untuk melembutkan makanan. Proses pertama ini terjadi
+      di dalam organ....
+    choiceA: 'Mulut '
+    choiceB: 'Kerongkongan '
+    choiceC: Usus besar
+    choiceD: Lambung
+    correctChoiceIndex: 0
+  - questionText: Makanan bisa turun masuk ke dalam lambung karena otot kerongkongan
+      melakukan gerakan meremas dan mendorong makanan. Gerakan hebat di kerongkongan
+      ini disebut....
+    choiceA: Gerak peristaltik
+    choiceB: Gerak memutar
+    choiceC: Gerak lurus beraturan
+    choiceD: Gerak gravitasi
+    correctChoiceIndex: 0
+  - questionText: Setelah dari lambung, makanan masuk ke organ pencernaan yang sangat
+      panjang. Organ ini bertugas menyerap seluruh sari-sari makanan untuk diedarkan
+      ke seluruh tubuh. Organ ini adalah....
+    choiceA: Usus halus
+    choiceB: Usus besar
+    choiceC: Mulut
+    choiceD: Kerongkongan
+    correctChoiceIndex: 0
+  - questionText: Setelah sari makanannya diserap, sisa-sisa ampas makanan akan diserap
+      airnya lalu diubah bentuknya menjadi tinja (kotoran). Proses pembentukan tinja
+      ini terjadi di organ....
+    choiceA: Usus besar
+    choiceB: Rektum
+    choiceC: Hati
+    choiceD: Lambung
+    correctChoiceIndex: 0
+  - questionText: Tubuh anak-anak sedang dalam masa pertumbuhan. Agar sel-sel tubuh
+      cepat tumbuh besar dan bisa memperbaiki tubuh jika terluka, kita sangat membutuhkan
+      nutrisi pengembang tubuh. Nutrisi yang banyak terdapat pada ikan, telur, susu,
+      dan daging ini disebut zat....
+    choiceA: 'Protein '
+    choiceB: 'Vitamin '
+    choiceC: 'Karbohidrat '
+    choiceD: Air putih
+    correctChoiceIndex: 0
+  - questionText: Menurut piramida makanan sehat, nutrisi apa yang porsinya harus
+      paling banyak kita konsumsi (sekitar 40%) sebagai sumber energi utama yang
+      diubah menjadi zat gula di tubuh?
+    choiceA: Karbohidrat, seperti nasi, sagu, jagung, dan roti
+    choiceB: Lemak, seperti minyak dan mentega
+    choiceC: Protein, seperti susu dan daging
+    choiceD: Gula, permen, dan makanan manis lainnya
+    correctChoiceIndex: 0
+  - questionText: Setiap manusia mengalami proses pertumbuhan. Sebelum dilahirkan
+      ke dunia, manusia tumbuh dan berkembang pertama kali di dalam perut ibu (rahim)
+      yang disebut dengan masa....
+    choiceA: Embrio (janin)
+    choiceB: Balita
+    choiceC: Remaja
+    choiceD: Lansia
+    correctChoiceIndex: 0
+  - questionText: Tahap pertumbuhan di mana seseorang mengalami masa peralihan (transisi)
+      dari anak-anak menjadi sosok dewasa disebut dengan masa....
+    choiceA: 'Pubertas '
+    choiceB: 'Balita '
+    choiceC: 'Bayi '
+    choiceD: Lanjut usia (Lansia)
+    correctChoiceIndex: 0
+  - questionText: Di bawah ini, manakah yang merupakan salah satu ciri perubahan
+      fisik pada anak laki-laki saat memasuki masa pubertas?
+    choiceA: Suara menjadi lebih berat, dada lebih bidang, dan jakun membesar
+    choiceB: 'Rambut kepala menjadi lebih cepat panjang dan lurus '
+    choiceC: Gigi susu mulai tanggal dan lepas secara bergantian
+    choiceD: Tinggi badan akan menyusut menjadi semakin pendek
+    correctChoiceIndex: 0
+  - questionText: Bagi anak perempuan yang sedang dalam masa pubertas, ada perubahan
+      fisik secara khusus yang menandakan bahwa organ reproduksinya mulai berfungsi.
+      Apakah itu?
+    choiceA: Mengalami menstruasi (haid)
+    choiceB: Tumbuhnya kumis di wajah
+    choiceC: Suara menjadi sangat tebal dan besar
+    choiceD: Tumbuh jakun di sekitar leher
+    correctChoiceIndex: 0
+  - questionText: Selain ukuran fisik tubuh yang berubah, anak yang sedang berada
+      dalam masa pubertas juga sering kali mengalami perubahan yang tidak terlihat
+      di luar. Salah satu perubahan tersebut adalah....
+    choiceA: Emosi yang mudah berubah-ubah (misalnya mudah merasa sedih, sensitif,
+      atau marah)
+    choiceB: Warna mata yang berubah menjadi kebiruan
+    choiceC: Ukuran jari tangan yang terus mengecil
+    choiceD: Semakin tidak bisa mandiri dan manja layaknya bayi
+    correctChoiceIndex: 0
+  - questionText: Pada masa pubertas, kelenjar di tubuh anak-anak akan memproduksi
+      banyak keringat dan minyak, yang kadang memicu bau badan dan mudah berjerawat.
+      Cara yang paling tepat untuk merawat kebersihan tubuh adalah....
+    choiceA: Rajin mandi, mencuci muka, dan sering mengganti pakaian dalam
+    choiceB: Jarang mandi agar tubuh lebih hangat dan kering
+    choiceC: Membiarkan baju dan kaus kaki dipakai berhari-hari
+    choiceD: "Hanya menggunakan parfum saja tanpa perlu mandi\r"
+    correctChoiceIndex: 0

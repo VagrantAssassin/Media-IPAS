@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 1aea012eb33159449ba671842099b061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8463666092841522099
+    second: Cara bermain 1_0
+  - first:
+      213: 4013794371762031705
+    second: Cara bermain 1_1
+  - first:
+      213: -5276365411769516503
+    second: Cara bermain 1_2
+  - first:
+      213: -5552566221427631168
+    second: Cara bermain 1_3
+  - first:
+      213: -4639317861078615555
+    second: Cara bermain 1_4
+  - first:
+      213: 6384309246849646170
+    second: Cara bermain 1_5
+  - first:
+      213: -693726799590426577
+    second: Cara bermain 1_6
+  - first:
+      213: 7029686284904218173
+    second: Cara bermain 1_7
+  - first:
+      213: -6230496461407706783
+    second: Cara bermain 1_8
+  - first:
+      213: 7704346611871219670
+    second: Cara bermain 1_9
+  - first:
+      213: 5906120780442187356
+    second: Cara bermain 1_10
+  - first:
+      213: -152930817150290006
+    second: Cara bermain 1_11
+  - first:
+      213: -4245642209194543709
+    second: Cara bermain 1_12
+  - first:
+      213: 3293892440872871252
+    second: Cara bermain 1_13
+  - first:
+      213: 7201905959886552590
+    second: Cara bermain 1_14
+  - first:
+      213: 280415387286481120
+    second: Cara bermain 1_15
+  - first:
+      213: 18201404541086411
+    second: Cara bermain 1_16
+  - first:
+      213: 3902991921023109041
+    second: Cara bermain 1_17
+  - first:
+      213: -5766803835739368558
+    second: Cara bermain 1_18
+  - first:
+      213: 1521067033105396114
+    second: Cara bermain 1_19
+  - first:
+      213: -8089496406951944605
+    second: Cara bermain 1_20
+  - first:
+      213: 5542107221690834155
+    second: Cara bermain 1_21
+  - first:
+      213: -2522761962342017377
+    second: Cara bermain 1_22
+  - first:
+      213: 1451591073788647212
+    second: Cara bermain 1_23
+  - first:
+      213: -3006253190924198959
+    second: Cara bermain 1_24
+  - first:
+      213: 4110206438467359798
+    second: Cara bermain 1_25
+  - first:
+      213: -6953822565000551510
+    second: Cara bermain 1_26
+  - first:
+      213: -2616263688410824888
+    second: Cara bermain 1_27
+  - first:
+      213: 6036886600296326007
+    second: Cara bermain 1_28
+  - first:
+      213: -8109957569157501262
+    second: Cara bermain 1_29
+  - first:
+      213: -5682626416925274998
+    second: Cara bermain 1_30
+  - first:
+      213: 6516572405309025768
+    second: Cara bermain 1_31
+  - first:
+      213: -3458551439065231171
+    second: Cara bermain 1_32
+  - first:
+      213: 4808850960840407325
+    second: Cara bermain 1_33
+  - first:
+      213: -4217010590363983575
+    second: Cara bermain 1_34
+  - first:
+      213: 2475497575555297034
+    second: Cara bermain 1_35
+  - first:
+      213: 4589120944807175085
+    second: Cara bermain 1_36
+  - first:
+      213: 399884859032402784
+    second: Cara bermain 1_37
+  - first:
+      213: -396481988740684719
+    second: Cara bermain 1_38
+  - first:
+      213: -5338206763185687398
+    second: Cara bermain 1_39
+  - first:
+      213: 3526587625329843784
+    second: Cara bermain 1_40
+  - first:
+      213: -2851197464653993476
+    second: Cara bermain 1_41
+  - first:
+      213: 7612032106953305728
+    second: Cara bermain 1_42
+  - first:
+      213: -6157836251911767806
+    second: Cara bermain 1_43
+  - first:
+      213: 6259378769183881711
+    second: Cara bermain 1_44
+  - first:
+      213: 4917433532258818600
+    second: Cara bermain 1_45
+  - first:
+      213: 2715772381353219767
+    second: Cara bermain 1_46
+  - first:
+      213: 1502104134948305136
+    second: Cara bermain 1_47
+  - first:
+      213: 417283895502049693
+    second: Cara bermain 1_48
+  - first:
+      213: 7857542265891136932
+    second: Cara bermain 1_49
+  - first:
+      213: 606206005406199680
+    second: Cara bermain 1_50
+  - first:
+      213: 5493603742715404812
+    second: Cara bermain 1_51
+  - first:
+      213: -2902894814705566240
+    second: Cara bermain 1_52
+  - first:
+      213: 9181323354738837270
+    second: Cara bermain 1_53
+  - first:
+      213: 7517368910221356140
+    second: Cara bermain 1_54
+  - first:
+      213: -5087910008479867760
+    second: Cara bermain 1_55
+  - first:
+      213: 1230651628204067922
+    second: Cara bermain 1_56
+  - first:
+      213: -6338247158001277643
+    second: Cara bermain 1_57
+  - first:
+      213: -1468424274010138069
+    second: Cara bermain 1_58
+  - first:
+      213: 3024402336850003480
+    second: Cara bermain 1_59
+  - first:
+      213: -5829624951435540693
+    second: Cara bermain 1_60
+  - first:
+      213: -7822843277375641713
+    second: Cara bermain 1_61
+  - first:
+      213: -5972179074006208487
+    second: Cara bermain 1_62
+  - first:
+      213: -5042762985981387456
+    second: Cara bermain 1_63
+  - first:
+      213: -3903256311567847255
+    second: Cara bermain 1_64
+  - first:
+      213: 7376033321561401682
+    second: Cara bermain 1_65
+  - first:
+      213: 464561623866830646
+    second: Cara bermain 1_66
+  - first:
+      213: -2910647168794077607
+    second: Cara bermain 1_67
+  - first:
+      213: -380525327290900515
+    second: Cara bermain 1_68
+  - first:
+      213: -7250344264754682500
+    second: Cara bermain 1_69
+  - first:
+      213: -8821333382711312948
+    second: Cara bermain 1_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cara bermain 1_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1293
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca9aee7840b8a80800000000000000
+      internalID: -8463666092841522099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1293
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c865217bcd3b730800000000000000
+      internalID: 4013794371762031705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1293
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef1560d9596c6b0800000000000000
+      internalID: -5276365411769516503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_3
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1293
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb19fbb07251f2b0800000000000000
+      internalID: -5552566221427631168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1293
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b84a4cf4dd9fb0800000000000000
+      internalID: -4639317861078615555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1293
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ef6ba3f6f999850800000000000000
+      internalID: 6384309246849646170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_6
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1293
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287e3bb6236f56f0800000000000000
+      internalID: -693726799590426577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_7
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1293
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb6266e667e8160800000000000000
+      internalID: 7029686284904218173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_8
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1293
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161277b9a74d889a0800000000000000
+      internalID: -6230496461407706783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1335
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df71139c665bea60800000000000000
+      internalID: 7704346611871219670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_10
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1293
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c563fcece81c6f150800000000000000
+      internalID: 5906120780442187356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_11
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1292
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7fb886b3ea0edf0800000000000000
+      internalID: -152930817150290006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_12
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1335
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5fd85b7e27415c0800000000000000
+      internalID: -4245642209194543709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_13
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1293
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455629229b146bd20800000000000000
+      internalID: 3293892440872871252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_14
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1293
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7ecc205f42f360800000000000000
+      internalID: 7201905959886552590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_15
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1293
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a3cc1f4c34e300800000000000000
+      internalID: 280415387286481120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_16
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1293
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaa51cb41aa04000800000000000000
+      internalID: 18201404541086411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_17
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1293
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b74dc529763a2630800000000000000
+      internalID: 3902991921023109041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_18
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1335
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2931569177238ffa0800000000000000
+      internalID: -5766803835739368558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_19
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1293
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291fdcb586aeb1510800000000000000
+      internalID: 1521067033105396114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_20
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1293
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e94dbb0e55cbf80800000000000000
+      internalID: -8089496406951944605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_21
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1293
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec5200a72589ec40800000000000000
+      internalID: 5542107221690834155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_22
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 802
+        width: 224
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969cb58c595dfcd0800000000000000
+      internalID: -2522761962342017377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_23
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 803
+        width: 182
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27dc480466152410800000000000000
+      internalID: 1451591073788647212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_24
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 430
+        width: 382
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db141296a4a746d0800000000000000
+      internalID: -3006253190924198959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 267
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634de5e9af26a0930800000000000000
+      internalID: 4110206438467359798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 267
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3eb06583f0f7f90800000000000000
+      internalID: -6953822565000551510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 267
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ff485790a21bbd0800000000000000
+      internalID: -2616263688410824888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_28
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7736affc06457c350800000000000000
+      internalID: 6036886600296326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_29
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 267
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be60ea2f84a37f80800000000000000
+      internalID: -8109957569157501262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_30
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 267
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c0be3b1614321b0800000000000000
+      internalID: -5682626416925274998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edae8b83148f6a50800000000000000
+      internalID: 6516572405309025768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 267
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d9155ac1c000d0800000000000000
+      internalID: -3458551439065231171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 267
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1930b278787cb240800000000000000
+      internalID: 4808850960840407325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216b43f53b2a75c0800000000000000
+      internalID: -4217010590363983575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_35
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f6051edebba5220800000000000000
+      internalID: 2475497575555297034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_36
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da369826f25dfaf30800000000000000
+      internalID: 4589120944807175085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_37
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 267
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bfead192dac8500800000000000000
+      internalID: 399884859032402784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_38
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 266
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154654d5bb96f7af0800000000000000
+      internalID: -396481988740684719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_39
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94babe5b31eae5b0800000000000000
+      internalID: -5338206763185687398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_40
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 267
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ed215b2c4f0f030800000000000000
+      internalID: 3526587625329843784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_41
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9edce13038e68d0800000000000000
+      internalID: -2851197464653993476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_42
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 267
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee1d9fede53a960800000000000000
+      internalID: 7612032106953305728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_43
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b6c3fd88fa8aa0800000000000000
+      internalID: -6157836251911767806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_44
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 267
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b3d3b3d7cdd650800000000000000
+      internalID: 6259378769183881711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_45
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 267
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a91e07ebb3e3440800000000000000
+      internalID: 4917433532258818600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_46
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 267
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61061979c50b520800000000000000
+      internalID: 2715772381353219767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_47
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 267
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83d3390cb88d410800000000000000
+      internalID: 1502104134948305136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_48
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9114e9fd7d7ac500800000000000000
+      internalID: 417283895502049693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52f0e4f099b0d60800000000000000
+      internalID: 7857542265891136932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_50
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 267
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe1fc662da96800800000000000000
+      internalID: 606206005406199680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_51
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 267
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02ee456f733d3c40800000000000000
+      internalID: 5493603742715404812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_52
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edb625db88d6b7d0800000000000000
+      internalID: -2902894814705566240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_53
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 267
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c43742fc9a6f70800000000000000
+      internalID: 9181323354738837270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_54
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 267
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2f43f13f035860800000000000000
+      internalID: 7517368910221356140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_55
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 267
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c176fddcc1469b0800000000000000
+      internalID: -5087910008479867760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_56
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c0c55b227241110800000000000000
+      internalID: 1230651628204067922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_57
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 256
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53564b09ac50a08a0800000000000000
+      internalID: -6338247158001277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_58
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 256
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a901027eb1f9be0800000000000000
+      internalID: -1468424274010138069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_59
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164ec1c6e5d8f920800000000000000
+      internalID: 3024402336850003480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_60
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 267
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274eeb4ef2091fa0800000000000000
+      internalID: -5829624951435540693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_61
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 267
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87e8768c7daf6390800000000000000
+      internalID: -7822843277375641713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_62
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910b6de26ce8e1da0800000000000000
+      internalID: -5972179074006208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_63
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 267
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d571e28c1840ab0800000000000000
+      internalID: -5042762985981387456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_64
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a072b1a019d4d9c0800000000000000
+      internalID: -3903256311567847255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_65
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 267
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ac1fd93fec5660800000000000000
+      internalID: 7376033321561401682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_66
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 267
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f6cd6e554727600800000000000000
+      internalID: 464561623866830646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_67
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 267
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956588d32dd4b97d0800000000000000
+      internalID: -2910647168794077607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_68
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 267
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf59ce1b3a18baf0800000000000000
+      internalID: -380525327290900515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_69
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 267
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a1002e4a916b90800000000000000
+      internalID: -7250344264754682500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cara bermain 1_70
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 267
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd723e9604549580800000000000000
+      internalID: -8821333382711312948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cara bermain 1_0: -8463666092841522099
+      Cara bermain 1_1: 4013794371762031705
+      Cara bermain 1_10: 5906120780442187356
+      Cara bermain 1_11: -152930817150290006
+      Cara bermain 1_12: -4245642209194543709
+      Cara bermain 1_13: 3293892440872871252
+      Cara bermain 1_14: 7201905959886552590
+      Cara bermain 1_15: 280415387286481120
+      Cara bermain 1_16: 18201404541086411
+      Cara bermain 1_17: 3902991921023109041
+      Cara bermain 1_18: -5766803835739368558
+      Cara bermain 1_19: 1521067033105396114
+      Cara bermain 1_2: -5276365411769516503
+      Cara bermain 1_20: -8089496406951944605
+      Cara bermain 1_21: 5542107221690834155
+      Cara bermain 1_22: -2522761962342017377
+      Cara bermain 1_23: 1451591073788647212
+      Cara bermain 1_24: -3006253190924198959
+      Cara bermain 1_25: 4110206438467359798
+      Cara bermain 1_26: -6953822565000551510
+      Cara bermain 1_27: -2616263688410824888
+      Cara bermain 1_28: 6036886600296326007
+      Cara bermain 1_29: -8109957569157501262
+      Cara bermain 1_3: -5552566221427631168
+      Cara bermain 1_30: -5682626416925274998
+      Cara bermain 1_31: 6516572405309025768
+      Cara bermain 1_32: -3458551439065231171
+      Cara bermain 1_33: 4808850960840407325
+      Cara bermain 1_34: -4217010590363983575
+      Cara bermain 1_35: 2475497575555297034
+      Cara bermain 1_36: 4589120944807175085
+      Cara bermain 1_37: 399884859032402784
+      Cara bermain 1_38: -396481988740684719
+      Cara bermain 1_39: -5338206763185687398
+      Cara bermain 1_4: -4639317861078615555
+      Cara bermain 1_40: 3526587625329843784
+      Cara bermain 1_41: -2851197464653993476
+      Cara bermain 1_42: 7612032106953305728
+      Cara bermain 1_43: -6157836251911767806
+      Cara bermain 1_44: 6259378769183881711
+      Cara bermain 1_45: 4917433532258818600
+      Cara bermain 1_46: 2715772381353219767
+      Cara bermain 1_47: 1502104134948305136
+      Cara bermain 1_48: 417283895502049693
+      Cara bermain 1_49: 7857542265891136932
+      Cara bermain 1_5: 6384309246849646170
+      Cara bermain 1_50: 606206005406199680
+      Cara bermain 1_51: 5493603742715404812
+      Cara bermain 1_52: -2902894814705566240
+      Cara bermain 1_53: 9181323354738837270
+      Cara bermain 1_54: 7517368910221356140
+      Cara bermain 1_55: -5087910008479867760
+      Cara bermain 1_56: 1230651628204067922
+      Cara bermain 1_57: -6338247158001277643
+      Cara bermain 1_58: -1468424274010138069
+      Cara bermain 1_59: 3024402336850003480
+      Cara bermain 1_6: -693726799590426577
+      Cara bermain 1_60: -5829624951435540693
+      Cara bermain 1_61: -7822843277375641713
+      Cara bermain 1_62: -5972179074006208487
+      Cara bermain 1_63: -5042762985981387456
+      Cara bermain 1_64: -3903256311567847255
+      Cara bermain 1_65: 7376033321561401682
+      Cara bermain 1_66: 464561623866830646
+      Cara bermain 1_67: -2910647168794077607
+      Cara bermain 1_68: -380525327290900515
+      Cara bermain 1_69: -7250344264754682500
+      Cara bermain 1_7: 7029686284904218173
+      Cara bermain 1_70: -8821333382711312948
+      Cara bermain 1_8: -6230496461407706783
+      Cara bermain 1_9: 7704346611871219670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

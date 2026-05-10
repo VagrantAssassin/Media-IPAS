@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 4
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Bagaimanakah sebenarnya bentuk permukaan Bumi tempat kita tinggal?
+    choiceA: Tidak datar dan memiliki berbagai macam bentuk, ada yang menonjol dan
+      ada yang cekung
+    choiceB: Datar, mulus, dan sangat rata di semua tempat
+    choiceC: Berbentuk kotak seperti kubus raksasa
+    choiceD: Sepenuhnya ditutupi oleh air laut yang dalam
+    correctChoiceIndex: 0
+  - questionText: Bagian daratan di Bumi yang menonjol menjulang sangat tinggi, berukuran
+      lebih besar dari bukit, dan beberapa di antaranya bisa meletus disebut....
+    choiceA: Gunung
+    choiceB: Lembah
+    choiceC: Dataran rendah
+    choiceD: Sungai
+    correctChoiceIndex: 0
+  - questionText: Daerah dataran yang melandai ke bawah dan membentuk cekungan di
+      antara dua bukit atau dua gunung disebut....
+    choiceA: Lembah
+    choiceB: Dataran tinggi
+    choiceC: Laut
+    choiceD: Kawah
+    correctChoiceIndex: 0
+  - questionText: Permukaan daratan di Bumi memiliki ketinggian yang berbeda-beda.
+      Bagian daratan yang ketinggiannya antara 0 sampai 200 meter di atas permukaan
+      laut disebut dengan....
+    choiceA: Dataran rendah
+    choiceB: Dataran tinggi
+    choiceC: Pegunungan
+    choiceD: Perbukitan
+    correctChoiceIndex: 0
+  - questionText: Bagian permukaan Bumi yang digenangi air dan airnya mengalir dari
+      sumber mata air di pegunungan menuju ke laut disebut....
+    choiceA: Sungai
+    choiceB: Danau
+    choiceC: Kolam renang
+    choiceD: Sumur
+    correctChoiceIndex: 0
+  - questionText: Bumi kita diselimuti oleh lapisan udara yang sangat penting agar
+      makhluk hidup bisa bernapas. Lapisan udara yang menyelimuti Bumi ini disebut....
+    choiceA: 'Atmosfer '
+    choiceB: 'Litosfer '
+    choiceC: 'Hidrosfer '
+    choiceD: Tata surya
+    correctChoiceIndex: 0
+  - questionText: Daratan yang ada di Bumi, seperti gunung, bukit, lembah, dan dataran
+      tempat kita memijakkan kaki disebut sebagai....
+    choiceA: 'Litosfer '
+    choiceB: 'Hidrosfer '
+    choiceC: 'Atmosfer '
+    choiceD: Termosfer
+    correctChoiceIndex: 0
+  - questionText: Selain daratan, Bumi kita juga terdiri dari perairan seperti laut,
+      danau, dan sungai. Seluruh bagian perairan yang ada di Bumi disebut dengan....
+    choiceA: 'Litosfer '
+    choiceB: 'Hidrosfer '
+    choiceC: 'Atmosfer '
+    choiceD: Termosfer
+    correctChoiceIndex: 1
+  - questionText: Apakah kondisi permukaan alam di Bumi selalu sama sejak zaman dahulu
+      hingga sekarang?
+    choiceA: Tidak, kondisi alam di Bumi selalu mengalami perubahan dari waktu ke
+      waktu
+    choiceB: Ya, kondisi alam di Bumi tidak pernah berubah sama sekali
+    choiceC: Ya, karena gunung dan lautan ukurannya akan selalu tetap
+    choiceD: Tidak, karena Bumi selalu membesar setiap harinya
+    correctChoiceIndex: 0
+  - questionText: Tahukah kamu dari mana datangnya hujan? Air berpindah dari permukaan
+      Bumi ke langit, lalu turun lagi ke Bumi secara terus-menerus. Proses ini disebut
+      dengan....
+    choiceA: Siklus air
+    choiceB: Gempa Bumi
+    choiceC: Tsunami
+    choiceD: Arus konveksi
+    correctChoiceIndex: 0
+  - questionText: Dalam proses terjadinya hujan, uap air di langit akan berubah kembali
+      menjadi benda cair (titik-titik air). Proses perubahan wujud ini disebut dengan....
+    choiceA: 'Kondensasi '
+    choiceB: 'Evaporasi '
+    choiceC: 'Mencair '
+    choiceD: Membeku
+    correctChoiceIndex: 0
+  - questionText: Di langit sering kali kita melihat gumpalan putih seperti kapas.
+      Gumpalan uap air yang melayang di atmosfer Bumi ini disebut dengan....
+    choiceA: 'Awan '
+    choiceB: Angin puting beliung
+    choiceC: 'Badai '
+    choiceD: Asap
+    correctChoiceIndex: 0
+  - questionText: Di dalam lapisan atmosfer terdapat berbagai macam gas. Ada oksigen
+      untuk manusia bernapas dan ada juga gas yang digunakan tumbuhan untuk membuat
+      makanannya sendiri. Gas apakah itu?
+    choiceA: Karbon dioksida
+    choiceB: Uap air
+    choiceC: 'Angin '
+    choiceD: Asap pabrik
+    correctChoiceIndex: 0
+  - questionText: Bagian Bumi paling dalam memiliki suhu yang sangat amat panas (sekitar
+      5.400 derajat Celcius) sehingga benda apa pun di sekitarnya akan meleleh menjadi
+      cair. Bagian ini disebut....
+    choiceA: Inti Bumi
+    choiceB: Kerak Bumi
+    choiceC: Mantel Bumi
+    choiceD: Litosfer
+    correctChoiceIndex: 0
+  - questionText: Tempat kita tinggal dan membangun rumah ini berada di lapisan terluar
+      Bumi yang sifatnya keras dan padat. Lapisan terluar Bumi ini disebut....
+    choiceA: Kerak Bumi
+    choiceB: Inti Bumi
+    choiceC: Mantel Bumi
+    choiceD: Atmosfer Bumi
+    correctChoiceIndex: 0
+  - questionText: Di bawah permukaan daratan dan lautan kita, terdapat bagian kerak
+      Bumi yang pecah-pecah seperti kepingan puzzle dan bisa bergeser. Kepingan daratan
+      raksasa ini disebut....
+    choiceA: 'Lempeng Bumi '
+    choiceB: Batu Bumi
+    choiceC: Inti Bumi
+    choiceD: Awan Bumi
+    correctChoiceIndex: 0
+  - questionText: Apa yang menyebabkan kepingan lempeng Bumi di bawah kita bisa terus
+      bergerak dan bergeser?
+    choiceA: Adanya arus konveksi cairan panas di dalam Bumi yang bergerak ke tempat
+      yang suhunya lebih rendah
+    choiceB: Karena ditiup oleh angin badai yang sangat kencang dari luar angkasa
+    choiceC: Karena disiram oleh air hujan yang terus-menerus turun dari awan
+    choiceD: Karena manusia selalu berjalan dan berlari di atas tanah setiap hari
+    correctChoiceIndex: 0
+  - questionText: Ketika lempeng Bumi bergerak saling bertabrakan atau bergesekan
+      dengan sangat kuat, kejadian ini dapat menyebabkan guncangan di permukaan Bumi
+      yang disebut....
+    choiceA: Gempa Bumi
+    choiceB: Hujan badai
+    choiceC: Angin puting beliung
+    choiceD: Kondensasi
+    correctChoiceIndex: 0
+  - questionText: Terkadang, gempa Bumi yang sangat kuat atau gunung meletus yang
+      terjadi di dasar laut bisa menyebabkan gelombang air laut yang sangat dahsyat
+      dan tinggi menuju daratan. Bencana alam ini disebut....
+    choiceA: 'Tsunami '
+    choiceB: Angin puting beliung
+    choiceC: Banjir bandang
+    choiceD: Hujan lebat
+    correctChoiceIndex: 0
+  - questionText: Bentuk permukaan Bumi bisa berubah dengan cepat akibat bencana
+      alam. Contohnya saat gunung meletus, bagian puncak gunung yang hancur karena
+      letusan akan berubah membentuk cekungan besar seperti danau kering yang disebut....
+    choiceA: 'Kawah '
+    choiceB: 'Lembah '
+    choiceC: Dataran tinggi
+    choiceD: Bukit
+    correctChoiceIndex: 0

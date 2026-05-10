@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 7
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Apa alasan utama pada zaman dahulu banyak pedagang dari bangsa
+      asing (seperti Arab, Tiongkok, dan Eropa) datang dan berinteraksi di Nusantara?
+    choiceA: Karena Indonesia merupakan negara kepulauan (maritim) dengan jalur pelayaran
+      laut yang strategis untuk berdagang
+    choiceB: Karena Indonesia memiliki pegunungan salju yang sangat indah
+    choiceC: 'Karena Indonesia adalah negara yang paling tertutup dari bangsa luar '
+    choiceD: Karena mereka hanya ingin sekadar berlibur dan belajar bahasa daerah
+    correctChoiceIndex: 0
+  - questionText: Masuknya bangsa asing ke Indonesia pada zaman dahulu tidak hanya
+      untuk berdagang, tetapi ternyata mereka juga membawa sesuatu yang berbaur dengan
+      masyarakat kita, yaitu....
+    choiceA: Budaya baru yang kemudian bercampur dengan budaya asli daerah setempat
+      (akulturasi)
+    choiceB: Bencana alam seperti gempa Bumi dan gunung meletus
+    choiceC: Hewan-hewan buas dari benua lain yang belum pernah ada
+    choiceD: Tanaman plastik buatan yang tidak bisa layu
+    correctChoiceIndex: 0
+  - questionText: Kekayaan budaya peninggalan leluhur kita di Indonesia secara umum
+      dibedakan menjadi dua jenis, yaitu....
+    choiceA: Warisan budaya benda dan warisan budaya tak benda
+    choiceB: Warisan budaya hidup dan warisan budaya mati
+    choiceC: Warisan budaya modern dan warisan budaya masa depan
+    choiceD: Warisan budaya daratan dan warisan budaya lautan
+    correctChoiceIndex: 0
+  - questionText: Warisan budaya benda adalah warisan budaya yang memiliki wujud
+      fisik sehingga bisa kita lihat dan raba secara langsung. Manakah yang termasuk
+      contoh warisan budaya benda?
+    choiceA: Bangunan candi, pakaian adat, makanan tradisional, dan alat musik
+    choiceB: 'Bahasa daerah, lagu daerah, dan tarian tradisional '
+    choiceC: Cerita rakyat, legenda, dan dongeng pengantar tidur
+    choiceD: Kebiasaan masyarakat pedesaan dan adat istiadat
+    correctChoiceIndex: 0
+  - questionText: Selain benda fisik, kita juga memiliki warisan budaya tak benda
+      (tidak bisa diraba namun bisa dilihat atau didengar). Manakah di bawah ini
+      yang merupakan contoh warisan budaya tak benda?
+    choiceA: 'Tarian tradisional, bahasa daerah, dan musik tradisional '
+    choiceB: Senjata tradisional seperti keris dan rencong
+    choiceC: Bangunan Candi Borobudur dan Candi Prambanan
+    choiceD: Pakaian adat kebaya dan alat produksi zaman dahulu
+    correctChoiceIndex: 0
+  - questionText: Salah satu warisan budaya benda kebanggaan Indonesia berupa bangunan
+      megah yang ditetapkan sebagai Situs Warisan Dunia oleh UNESCO pada tahun 1991
+      adalah....
+    choiceA: 'Candi Borobudur '
+    choiceB: Monumen Nasional (Monas)
+    choiceC: Jembatan Suramadu
+    choiceD: Museum Fatahillah
+    correctChoiceIndex: 0
+  - questionText: Indonesia memiliki warisan budaya tak benda asli berupa seni bela
+      diri tradisional yang mengutamakan kelincahan gerakan tubuh. Seni bela diri
+      ini bernama....
+    choiceA: Pencak Silat
+    choiceB: 'Karate '
+    choiceC: 'Taekwondo '
+    choiceD: Judo
+    correctChoiceIndex: 0
+  - questionText: Agar warisan budaya di daerah kita tidak rusak dan hilang ditelan
+      zaman, hal paling bijak yang harus kita lakukan adalah....
+    choiceA: Menjaga, merawat, dan melestarikannya agar kelak masih bisa dinikmati
+      anak cucu kita
+    choiceB: Menghancurkannya dan mengganti semuanya dengan budaya dari luar negeri
+    choiceC: Membiarkannya rusak dan hancur karena usianya sudah terlalu tua
+    choiceD: Menyembunyikannya di dalam tanah agar tidak ada orang lain yang tahu
+    correctChoiceIndex: 0
+  - questionText: Setiap pagi, ayah, ibu, dan masyarakat pergi bekerja untuk memenuhi
+      kebutuhan keluarga. Kegiatan yang dilakukan masyarakat untuk memenuhi kebutuhan
+      hidupnya disebut dengan....
+    choiceA: Aktivitas ekonomi
+    choiceB: Aktivitas budaya
+    choiceC: Aktivitas kebugaran
+    choiceD: Aktivitas istirahat
+    correctChoiceIndex: 0
+  - questionText: Di pedesaan yang memiliki tanah sangat subur dan persediaan air
+      yang cukup, aktivitas ekonomi apakah yang paling banyak dilakukan oleh masyarakat
+      setempat?
+    choiceA: Pertanian dan perkebunan
+    choiceB: Pertambangan minyak bumi di lepas pantai
+    choiceC: Perindustrian perakitan mesin pesawat
+    choiceD: Perdagangan barang elektronik canggih
+    correctChoiceIndex: 0
+  - questionText: Penduduk yang tinggal di daerah pesisir pantai biasanya bekerja
+      sebagai nelayan yang mencari ikan di laut. Aktivitas ekonomi ini termasuk ke
+      dalam bidang....
+    choiceA: 'Perikanan '
+    choiceB: Pertanian sawah
+    choiceC: 'Kehutanan '
+    choiceD: Jasa pengantaran
+    correctChoiceIndex: 0
+  - questionText: Agar aktivitas perputaran ekonomi di suatu daerah berjalan dengan
+      lancar, sangat dibutuhkan bangunan, jembatan, atau jalan raya yang bagus. Fasilitas
+      pemudah aktivitas manusia ini disebut dengan....
+    choiceA: 'Infrastruktur '
+    choiceB: 'Kendaraan tempur '
+    choiceC: Pabrik pengolahan
+    choiceD: Teknologi mesin
+    correctChoiceIndex: 0
+  - questionText: Apa yang akan terjadi pada aktivitas perekonomian suatu kota apabila
+      jalan raya atau jembatan utamanya mengalami kerusakan yang parah?
+    choiceA: Pasokan barang akan terhambat sehingga kegiatan ekonomi masyarakat menjadi
+      terganggu
+    choiceB: Aktivitas ekonomi di kota tersebut akan menjadi jauh lebih cepat dan
+      lancar
+    choiceC: Harga barang-barang dan makanan di pasar akan menjadi sangat murah
+    choiceD: Penduduk akan semakin mudah bepergian ke luar kota untuk berlibur
+    correctChoiceIndex: 0
+  - questionText: Para petani masa kini bisa menggunakan bibit padi unggul yang bisa
+      dipanen dalam waktu singkat (70 hari) agar hasil panen lebih banyak. Hal ini
+      membuktikan bahwa perekonomian daerah juga sangat dibantu oleh faktor....
+    choiceA: Kemajuan teknologi
+    choiceB: Keindahan pemandangan alam
+    choiceC: Kekuatan tiupan angin
+    choiceD: Cerita legenda masyarakat
+    correctChoiceIndex: 0
+  - questionText: Selain jalan yang bagus dan teknologi canggih, keberhasilan perekonomian
+      suatu daerah juga sangat bergantung pada kemampuan masyarakat yang bekerja
+      di dalamnya. Kemampuan manusia penggerak ekonomi ini disebut sebagai....
+    choiceA: Sumber Daya Manusia (SDM)
+    choiceB: Sumber Daya Alam (SDA)
+    choiceC: Infrastruktur daerah
+    choiceD: Modal bangunan fisik
+    correctChoiceIndex: 0
+  - questionText: Setiap daerah di Nusantara biasanya memiliki suatu barang, makanan,
+      atau karya andalan yang menjadi ciri khas kota tersebut dan sangat disukai
+      banyak orang. Barang kebanggaan ini disebut sebagai....
+    choiceA: Produk unggulan daerah
+    choiceB: Barang sisa buangan pabrik
+    choiceC: Produk impor luar negeri
+    choiceD: Barang langka purbakala
+    correctChoiceIndex: 0
+  - questionText: Tahukah kamu, salah satu makanan khas Indonesia sangat lezat dan
+      terkenal hingga ke berbagai negara di dunia. Makanan dari daging ini bernama
+      Rendang yang berasal dari daerah....
+    choiceA: Minangkabau (Sumatra Barat)
+    choiceB: Jawa Barat
+    choiceC: 'Bali '
+    choiceD: Papua
+    correctChoiceIndex: 0
+  - questionText: Selain makanan, Indonesia juga memiliki warisan budaya berupa alat
+      musik tradisional yang sangat disukai warga asing, bahkan sampai diajarkan
+      di sekolah-sekolah di Selandia Baru, Amerika, dan Jepang. Alat musik berkelompok
+      ini adalah....
+    choiceA: 'Gamelan '
+    choiceB: Angklung bambu tunggal
+    choiceC: 'Sasando '
+    choiceD: Seruling
+    correctChoiceIndex: 0
+  - questionText: Warisan budaya benda berupa kain bermotif sangat indah khas Indonesia
+      ini telah diakui oleh UNESCO. Bahkan, kita merayakannya setiap tanggal 2 Oktober
+      sebagai hari....
+    choiceA: Batik Nasional
+    choiceB: Pahlawan Nasional
+    choiceC: Songket Nasional
+    choiceD: Tenun Nusantara
+    correctChoiceIndex: 0
+  - questionText: Agar produk unggulan dan warisan budaya daerah kita semakin terkenal
+      di kota lain bahkan sampai ke luar negeri, cara terbaik yang bisa kita lakukan
+      adalah....
+    choiceA: Memperkenalkan dan mempromosikannya ke berbagai daerah atau negara melalui
+      pameran dan internet
+    choiceB: Menyimpan produk tersebut hanya di dalam lemari rumah sendiri
+    choiceC: Berhenti membuat produk tersebut agar berubah menjadi barang peninggalan
+      langka
+    choiceD: Menjual produk tersebut dengan harga yang sangat mahal ke teman sekelas
+    correctChoiceIndex: 0

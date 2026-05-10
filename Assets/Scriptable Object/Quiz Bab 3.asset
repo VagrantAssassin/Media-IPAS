@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b5b34d6b61523458e73aa9f7e1d460, type: 3}
+  m_Name: Quiz Bab 3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Di sekitar kita ada sebuah benda istimewa yang memiliki kemampuan
+      untuk menarik logam tertentu seperti besi dan baja. Benda ini disebut....
+    choiceA: 'Magnet '
+    choiceB: Kayu
+    choiceC: 'Plastik '
+    choiceD: Kaca
+    correctChoiceIndex: 0
+  - questionText: Setiap magnet memiliki dua bagian ujung yang kekuatan tarikannya
+      paling besar dibandingkan bagian tengahnya. Bagian ujung ini disebut....
+    choiceA: Kutub magnet
+    choiceB: Sisi magnet
+    choiceC: Tengah magnet
+    choiceD: Badan magnet
+    correctChoiceIndex: 0
+  - questionText: Tahukah kamu bahwa setiap magnet, apa pun bentuknya, selalu memiliki
+      dua kutub yang berbeda, yaitu....
+    choiceA: Kutub Utara dan Kutub Selatan
+    choiceB: Kutub Barat dan Kutub Timur
+    choiceC: Kutub Atas dan Kutub Bawah
+    choiceD: Kutub Kiri dan Kutub Kanan
+    correctChoiceIndex: 0
+  - questionText: Coba bayangkan kamu memegang dua buah magnet. Apa yang akan terjadi
+      jika kamu mendekatkan Kutub Utara magnet pertama dengan Kutub Utara magnet
+      kedua?
+    choiceA: Kedua magnet akan saling tolak-menolak dan menjauh
+    choiceB: Kedua magnet akan saling tarik-menarik dan menempel erat
+    choiceC: Kedua magnet akan menempel sementara lalu jatuh
+    choiceD: Kedua magnet akan diam saja tidak bergerak
+    correctChoiceIndex: 0
+  - questionText: Sebaliknya, jika kamu mendekatkan dua kutub yang berbeda, misalnya
+      Kutub Utara didekatkan dengan Kutub Selatan, maka yang terjadi adalah....
+    choiceA: Kedua magnet akan saling tarik-menarik dan menempel
+    choiceB: Kedua magnet akan bergeser menjauh dan tolak-menolak
+    choiceC: Magnet akan kehilangan kekuatan tariknya
+    choiceD: Magnet akan berubah warna perlahan-lahan
+    correctChoiceIndex: 0
+  - questionText: Saat kamu mendekatkan paku ke sebuah magnet, paku itu tiba-tiba
+      tertarik meskipun belum bersentuhan. Lingkungan di sekitar magnet yang masih
+      dipengaruhi oleh gaya tarik ini disebut....
+    choiceA: Medan magnet
+    choiceB: Arah magnet
+    choiceC: Garis magnet
+    choiceD: Ruang magnet
+    correctChoiceIndex: 0
+  - questionText: Dalam kehidupan sehari-hari, banyak alat yang menggunakan magnet
+      agar bisa berfungsi. Manakah di bawah ini yang menggunakan magnet?
+    choiceA: Hiasan tempelan pintu kulkas dan ujung obeng
+    choiceB: Buku tulis dan pensil kayu
+    choiceC: Sepatu karet dan kaus kaki
+    choiceD: Gelas kaca dan piring plastik
+    correctChoiceIndex: 0
+  - questionText: Selain magnet alam, kita juga bisa membuat magnet buatan secara
+      sederhana dengan cara melilitkan kabel pada paku, lalu menyambungkannya ke
+      baterai. Cara ini disebut membuat magnet secara....
+    choiceA: Elektromagnetik
+    choiceB: Menggosok magnet
+    choiceC: Induksi magnet
+    choiceD: Menjemur magnet
+    correctChoiceIndex: 0
+  - questionText: Energi yang terjadi karena adanya pergerakan muatan sangat kita
+      butuhkan di rumah untuk menyalakan televisi atau lampu. Energi ini disebut....
+    choiceA: Energi listrik
+    choiceB: Energi panas
+    choiceC: Energi gerak
+    choiceD: Energi bunyi
+    correctChoiceIndex: 0
+  - questionText: Benda-benda kecil seperti senter portabel, jam dinding, dan mainan
+      mobil-mobilan mendapatkan sumber energi listrik dari....
+    choiceA: 'Baterai '
+    choiceB: Pembangkit listrik tenaga air
+    choiceC: Gardu listrik
+    choiceD: Kabel tiang listrik
+    correctChoiceIndex: 0
+  - questionText: Dari manakah rumah, sekolah, dan gedung-gedung mendapatkan energi
+      listrik yang sangat besar untuk menyalakan banyak lampu setiap harinya?
+    choiceA: Dari pembangkit listrik yang disalurkan melalui kabel-kabel panjang
+    choiceB: Dari baterai raksasa yang dikubur di dalam tanah
+    choiceC: Dari petir yang ditangkap saat hujan badai turun
+    choiceD: Dari cahaya bulan pada malam hari
+    correctChoiceIndex: 0
+  - questionText: Di Indonesia, ada tempat pembuatan listrik yang menggunakan aliran
+      air dari bendungan yang sangat deras untuk memutar turbin. Tempat ini disebut....
+    choiceA: PLTA (Pembangkit Listrik Tenaga Air)
+    choiceB: PLTU (Pembangkit Listrik Tenaga Uap)
+    choiceC: PLTG (Pembangkit Listrik Tenaga Gas)
+    choiceD: PLTS (Pembangkit Listrik Tenaga Surya)
+    correctChoiceIndex: 0
+  - questionText: 'Energi listrik sangat hebat karena bisa diubah menjadi energi
+      lain untuk membantu kita. Alat yang mengubah energi listrik menjadi energi
+      panas adalah.... '
+    choiceA: 'Setrika dan penanak nasi (rice cooker) '
+    choiceB: 'Kipas angin dan mesin cuci '
+    choiceC: Lampu belajar dan senter
+    choiceD: Radio dan pengeras suara
+    correctChoiceIndex: 0
+  - questionText: Saat kamu kepanasan dan menyalakan kipas angin, baling-baling kipas
+      akan berputar. Hal ini membuktikan bahwa energi listrik dapat diubah menjadi....
+    choiceA: Energi gerak
+    choiceB: Energi cahaya
+    choiceC: Energi panas
+    choiceD: Energi kimia
+    correctChoiceIndex: 0
+  - questionText: Bahan bakar bumi seperti minyak dan batu bara suatu saat bisa habis.
+      Oleh karena itu, ilmuwan mencari energi alternatif yang tidak akan habis untuk
+      membuat listrik, contohnya adalah....
+    choiceA: Matahari, angin, dan aliran air
+    choiceB: Bensin, solar, dan avtur
+    choiceC: Asap pabrik dan polusi udara
+    choiceD: Batu bata, kayu, dan pasir
+    correctChoiceIndex: 0
+  - questionText: Ilmu pengetahuan yang diterapkan untuk membuat alat yang bisa menyelesaikan
+      masalah dan mempermudah kehidupan kita sehari-hari disebut....
+    choiceA: Teknologi
+    choiceB: Ekosistem
+    choiceC: Kebudayaan
+    choiceD: Kesenian
+    correctChoiceIndex: 0
+  - questionText: Zaman dahulu manusia berjalan kaki yang butuh waktu lama, tapi
+      sekarang ada motor, mobil, dan pesawat. Hal ini membuktikan bahwa teknologi
+      diciptakan manusia untuk....
+    choiceA: Mempermudah dan mempercepat aktivitas kehidupan sehari-hari
+    choiceB: Membuat manusia menjadi lebih malas dan tidak mau bergerak
+    choiceC: Mempersulit pekerjaan manusia saat bepergian
+    choiceD: Hanya sekadar untuk dijadikan pajangan di rumah
+    correctChoiceIndex: 0
+  - questionText: Tidak semua teknologi membutuhkan listrik, lho! Manakah dari alat
+      di bawah ini yang termasuk contoh teknologi sederhana tanpa listrik?
+    choiceA: Pisau, obeng, dan palu
+    choiceB: Telepon genggam (smartphone) dan televisi
+    choiceC: Mesin cuci dan kulkas
+    choiceD: Mobil dan sepeda motor listrik
+    correctChoiceIndex: 0
+  - questionText: Salah satu teknologi komunikasi modern yang sangat bermanfaat untuk
+      berbicara dan bertatap muka dengan kerabat yang jaraknya sangat jauh adalah....
+    choiceA: Telepon genggam pintar (smartphone)
+    choiceB: Setrika listrik otomatis
+    choiceC: Kipas angin tempel
+    choiceD: Mesin cuci pakaian
+    correctChoiceIndex: 0
+  - questionText: Apa yang membuat peralatan teknologi modern di rumah kita (seperti
+      TV, mesin cuci, dan komputer) bisa menyala dan membantu ibu membersihkan rumah?
+    choiceA: Karena peralatan tersebut dihubungkan dengan sumber energi listrik
+    choiceB: Karena peralatan tersebut dipanaskan di bawah sinar Matahari
+    choiceC: Karena peralatan tersebut ditiup oleh angin yang kencang
+    choiceD: Karena peralatan tersebut diisi dengan air keran setiap pagi
+    correctChoiceIndex: 0

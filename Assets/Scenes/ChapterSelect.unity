@@ -697,9 +697,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0
+    y: 0.16666666
     width: 1
-    height: 1
+    height: 0.6666666
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -2422,7 +2422,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 410153917}
-  - {fileID: 1438036970}
   - {fileID: 1917195065}
+  - {fileID: 1438036970}
   - {fileID: 1201459125}
   - {fileID: 1393958373}
