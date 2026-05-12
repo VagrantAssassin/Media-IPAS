@@ -1296,7 +1296,9 @@ MonoBehaviour:
   sidebarToggleButton: {fileID: 74083114}
   subBabButtons: []
   exitButton: {fileID: 1580888589}
-  exitTargetSceneName: MainMenu
+  activeButtonColor: {r: 0.2, g: 0.6, b: 1, a: 1}
+  inactiveButtonColor: {r: 1, g: 1, b: 1, a: 1}
+  exitTargetSceneName: ChapterSelect
   sidebarSlideDuration: 0.55
   hiddenOffsetX: -263
 --- !u!4 &658574757
@@ -1798,6 +1800,7 @@ GameObject:
   - component: {fileID: 1054025284}
   - component: {fileID: 1054025283}
   - component: {fileID: 1054025282}
+  - component: {fileID: 1054025286}
   m_Layer: 5
   m_Name: Chapter Button (1)
   m_TagString: Untagged
@@ -1932,6 +1935,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054025280}
   m_CullTransparentMesh: 1
+--- !u!114 &1054025286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1054025280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 658574756}
+  chapterIndex: 1
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1091715460
 GameObject:
   m_ObjectHideFlags: 0
@@ -3133,6 +3152,7 @@ GameObject:
   - component: {fileID: 1562843657}
   - component: {fileID: 1562843656}
   - component: {fileID: 1562843655}
+  - component: {fileID: 1562843659}
   m_Layer: 5
   m_Name: Chapter Button (2)
   m_TagString: Untagged
@@ -3267,6 +3287,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562843653}
   m_CullTransparentMesh: 1
+--- !u!114 &1562843659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562843653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 658574756}
+  chapterIndex: 2
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1578643303
 GameObject:
   m_ObjectHideFlags: 0
@@ -3280,6 +3316,7 @@ GameObject:
   - component: {fileID: 1578643307}
   - component: {fileID: 1578643306}
   - component: {fileID: 1578643305}
+  - component: {fileID: 1578643309}
   m_Layer: 5
   m_Name: Chapter Button
   m_TagString: Untagged
@@ -3414,6 +3451,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1578643303}
   m_CullTransparentMesh: 1
+--- !u!114 &1578643309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578643303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 658574756}
+  chapterIndex: 0
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1580888588
 GameObject:
   m_ObjectHideFlags: 0

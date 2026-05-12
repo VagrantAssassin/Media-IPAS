@@ -566,7 +566,9 @@ MonoBehaviour:
   sidebarToggleButton: {fileID: 1653074622}
   subBabButtons: []
   exitButton: {fileID: 63251946}
-  exitTargetSceneName: MainMenu
+  activeButtonColor: {r: 0.2, g: 0.6, b: 1, a: 1}
+  inactiveButtonColor: {r: 1, g: 1, b: 1, a: 1}
+  exitTargetSceneName: ChapterSelect
   sidebarSlideDuration: 0.55
   hiddenOffsetX: -263
 --- !u!4 &206947672
@@ -2270,6 +2272,7 @@ GameObject:
   - component: {fileID: 1350177812}
   - component: {fileID: 1350177811}
   - component: {fileID: 1350177810}
+  - component: {fileID: 1350177814}
   m_Layer: 5
   m_Name: Chapter Button (2)
   m_TagString: Untagged
@@ -2334,7 +2337,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -2404,6 +2407,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1350177808}
   m_CullTransparentMesh: 1
+--- !u!114 &1350177814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350177808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 206947671}
+  chapterIndex: 2
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1478356689
 GameObject:
   m_ObjectHideFlags: 0
@@ -2567,6 +2586,7 @@ GameObject:
   - component: {fileID: 1500977397}
   - component: {fileID: 1500977396}
   - component: {fileID: 1500977395}
+  - component: {fileID: 1500977399}
   m_Layer: 5
   m_Name: Chapter Button
   m_TagString: Untagged
@@ -2631,7 +2651,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -2701,6 +2721,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1500977393}
   m_CullTransparentMesh: 1
+--- !u!114 &1500977399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500977393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 206947671}
+  chapterIndex: 0
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1514087904
 GameObject:
   m_ObjectHideFlags: 0
@@ -2850,6 +2886,7 @@ GameObject:
   - component: {fileID: 1537158278}
   - component: {fileID: 1537158277}
   - component: {fileID: 1537158276}
+  - component: {fileID: 1537158280}
   m_Layer: 5
   m_Name: Chapter Button (1)
   m_TagString: Untagged
@@ -2914,7 +2951,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -2984,6 +3021,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1537158274}
   m_CullTransparentMesh: 1
+--- !u!114 &1537158280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1537158274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb63151bdc605a4e86e3c6e6bdd230e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 206947671}
+  chapterIndex: 1
+  activeColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1592936032
 GameObject:
   m_ObjectHideFlags: 0
@@ -3996,7 +4049,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
