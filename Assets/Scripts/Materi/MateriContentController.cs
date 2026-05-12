@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+
 public class MateriContentController : MonoBehaviour
 {
     [Serializable]
@@ -78,6 +79,9 @@ public class MateriContentController : MonoBehaviour
     [SerializeField] private float hiddenOffsetX = -300f;
     // hiddenOffsetX: seberapa jauh sidebar digeser ke kiri dari posisi shown.
     // Sesuaikan dengan lebar sidebar kamu (mis. -280, -320, dst).
+
+    // Tombol sidebar yang didaftarkan via MateriSidebarButton.RegisterSidebarButton()
+    private readonly HashSet<MateriSidebarButton> registeredSidebarButtons = new();
 
     private int currentSubIndex;
     private int currentPageIndex;
@@ -211,17 +215,39 @@ public class MateriContentController : MonoBehaviour
 
     private void RefreshSidebarActiveState()
     {
-        if (subBabButtons == null) return;
-
-        for (int i = 0; i < subBabButtons.Length; i++)
+        // Perbarui tombol yang di-assign via Inspector (subBabButtons lama)
+        if (subBabButtons != null)
         {
-            if (subBabButtons[i] == null) continue;
+            for (int i = 0; i < subBabButtons.Length; i++)
+            {
+                if (subBabButtons[i] == null) continue;
 
-            var img = subBabButtons[i].GetComponent<UnityEngine.UI.Image>();
-            if (img == null) continue;
+                var img = subBabButtons[i].GetComponent<UnityEngine.UI.Image>();
+                if (img == null) continue;
 
-            img.color = (i == currentSubIndex) ? activeButtonColor : inactiveButtonColor;
+                img.color = (i == currentSubIndex) ? activeButtonColor : inactiveButtonColor;
+            }
         }
+
+        // Perbarui tombol yang terdaftar via MateriSidebarButton (tombol terpisah)
+        foreach (var btn in registeredSidebarButtons)
+        {
+            if (btn == null) continue;
+            btn.SetActiveState(btn.ChapterIndex == currentSubIndex);
+        }
+    }
+
+    /// <summary>
+    /// Dipanggil oleh MateriSidebarButton saat Start() untuk mendaftarkan diri.
+    /// Setelah terdaftar, tombol langsung mendapatkan status visual yang benar.
+    /// </summary>
+    public void RegisterSidebarButton(MateriSidebarButton btn)
+    {
+        if (btn == null) return;
+        registeredSidebarButtons.Add(btn);
+
+        // Langsung terapkan status aktif/tidak-aktif berdasarkan sub-bab saat ini.
+        btn.SetActiveState(btn.ChapterIndex == currentSubIndex);
     }
 
     public void SelectSubBab(int subIndex)
