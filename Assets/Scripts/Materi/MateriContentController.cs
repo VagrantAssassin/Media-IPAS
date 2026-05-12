@@ -66,8 +66,12 @@ public class MateriContentController : MonoBehaviour
     [SerializeField] private Button[] subBabButtons;
     [SerializeField] private Button exitButton;
 
+    [Header("Sidebar Active Button Colors")]
+    [SerializeField] private Color activeButtonColor = new Color(0.2f, 0.6f, 1f, 1f);   // biru muda saat aktif
+    [SerializeField] private Color inactiveButtonColor = Color.white;
+
     [Header("Scene Names")]
-    [SerializeField] private string exitTargetSceneName = "MainMenu";
+    [SerializeField] private string exitTargetSceneName = "ChapterSelect";
 
     [Header("Sidebar Slide Settings")]
     [SerializeField] private float sidebarSlideDuration = 0.2f;
@@ -86,9 +90,13 @@ public class MateriContentController : MonoBehaviour
     // =========================
     // SAVE/LOAD LAST PAGE (NEW)
     // =========================
-    // Kalau kamu mau per-scene/per-bab, ganti prefix ini memakai SceneManager.GetActiveScene().name
-    private const string PrefSubIndex = "MediaIPAS.LastMateri.SubIndex";
-    private const string PrefPageIndex = "MediaIPAS.LastMateri.PageIndex";
+    // Keys are per-scene so different bab scenes don't share state.
+    private string PrefSubIndex => $"MediaIPAS.{UnityEngine.SceneManagement.SceneManager.GetActiveScene().name}.SubIndex";
+    private string PrefPageIndex => $"MediaIPAS.{UnityEngine.SceneManagement.SceneManager.GetActiveScene().name}.PageIndex";
+
+    // Flag: set to true before loading a simulation scene so that on return
+    // the last-viewed page is restored instead of resetting to the first page.
+    public static bool ReturningFromSimulation = false;
 
     private void SaveLastViewed()
     {
@@ -116,16 +124,23 @@ public class MateriContentController : MonoBehaviour
 
     private void Start()
     {
-        // Restore last viewed page instead of always starting at 0
         if (subBabs == null || subBabs.Count == 0)
             return;
 
-        LoadLastViewedOrDefault(out int savedSub, out int savedPage);
-
-        savedSub = Mathf.Clamp(savedSub, 0, subBabs.Count - 1);
-
-        currentSubIndex = savedSub;
-        currentPageIndex = savedPage; // nanti di-clamp di RefreshUI()
+        if (ReturningFromSimulation)
+        {
+            // Returning from simulation: restore last-viewed sub/page
+            ReturningFromSimulation = false;
+            LoadLastViewedOrDefault(out int savedSub, out int savedPage);
+            currentSubIndex = Mathf.Clamp(savedSub, 0, subBabs.Count - 1);
+            currentPageIndex = savedPage; // clamped in RefreshUI()
+        }
+        else
+        {
+            // Entering fresh from chapter select: always start at first materi, first slide
+            currentSubIndex = 0;
+            currentPageIndex = 0;
+        }
 
         RefreshUI();
     }
@@ -191,6 +206,21 @@ public class MateriContentController : MonoBehaviour
 
             bool hasData = (subBabs != null && i >= 0 && i < subBabs.Count);
             subBabButtons[i].interactable = hasData;
+        }
+    }
+
+    private void RefreshSidebarActiveState()
+    {
+        if (subBabButtons == null) return;
+
+        for (int i = 0; i < subBabButtons.Length; i++)
+        {
+            if (subBabButtons[i] == null) continue;
+
+            var img = subBabButtons[i].GetComponent<UnityEngine.UI.Image>();
+            if (img == null) continue;
+
+            img.color = (i == currentSubIndex) ? activeButtonColor : inactiveButtonColor;
         }
     }
 
@@ -284,6 +314,8 @@ public class MateriContentController : MonoBehaviour
 
         RefreshSimulationButton();
 
+        RefreshSidebarActiveState();
+
         // NEW: simpan setiap kali UI di-refresh (pindah page/sub-bab)
         SaveLastViewed();
     }
@@ -348,8 +380,9 @@ public class MateriContentController : MonoBehaviour
         if (rule == null || string.IsNullOrEmpty(rule.simulationSceneName))
             return;
 
-        // NEW: pastikan tersimpan sebelum pindah scene simulasi
+        // Pastikan tersimpan dan tandai bahwa kita kembali dari simulasi
         SaveLastViewed();
+        ReturningFromSimulation = true;
 
         SceneManager.LoadScene(rule.simulationSceneName);
     }
