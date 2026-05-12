@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class QuizControllerTextOnly : MonoBehaviour
@@ -21,12 +22,17 @@ public class QuizControllerTextOnly : MonoBehaviour
 
     [Header("Quiz UI")]
     [SerializeField] private TMP_Text textQuestion;
+    [SerializeField] private TMP_Text textQuestionNumber;   // nomor soal (atas kiri)
     [SerializeField] private Button[] answerButtons;        // size 4
     [SerializeField] private TMP_Text[] answerButtonTexts;  // size 4
 
     [Header("Result UI")]
     [SerializeField] private TMP_Text textIdentity;
     [SerializeField] private TMP_Text textScore;
+
+    [Header("Exit Button")]
+    [SerializeField] private Button exitButton;
+    [SerializeField] private string exitTargetSceneName = "Materi";
 
     [Header("Shuffle")]
     [SerializeField] private bool shuffleQuestions = true;
@@ -49,6 +55,12 @@ public class QuizControllerTextOnly : MonoBehaviour
             buttonStart.onClick.AddListener(OnClickStart);
         }
 
+        if (exitButton != null)
+        {
+            exitButton.onClick.RemoveAllListeners();
+            exitButton.onClick.AddListener(OnClickExit);
+        }
+
         for (int i = 0; i < answerButtons.Length; i++)
         {
             int captured = i;
@@ -65,6 +77,7 @@ public class QuizControllerTextOnly : MonoBehaviour
         if (panelQuiz) panelQuiz.SetActive(false);
         if (panelResult) panelResult.SetActive(false);
         if (textWarning) textWarning.text = "";
+        SetExitButtonVisible(true);
     }
 
     private void ShowPanelQuiz()
@@ -72,6 +85,7 @@ public class QuizControllerTextOnly : MonoBehaviour
         if (panelStart) panelStart.SetActive(false);
         if (panelQuiz) panelQuiz.SetActive(true);
         if (panelResult) panelResult.SetActive(false);
+        SetExitButtonVisible(false);
     }
 
     private void ShowPanelResult()
@@ -79,6 +93,24 @@ public class QuizControllerTextOnly : MonoBehaviour
         if (panelStart) panelStart.SetActive(false);
         if (panelQuiz) panelQuiz.SetActive(false);
         if (panelResult) panelResult.SetActive(true);
+        SetExitButtonVisible(true);
+    }
+
+    private void SetExitButtonVisible(bool visible)
+    {
+        if (exitButton != null)
+            exitButton.gameObject.SetActive(visible);
+    }
+
+    private void OnClickExit()
+    {
+        if (!string.IsNullOrEmpty(exitTargetSceneName))
+        {
+            SceneManager.LoadScene(exitTargetSceneName);
+            return;
+        }
+
+        Application.Quit();
     }
 
     private void OnClickStart()
@@ -123,6 +155,9 @@ public class QuizControllerTextOnly : MonoBehaviour
             FinishQuiz();
             return;
         }
+
+        if (textQuestionNumber)
+            textQuestionNumber.text = $"Soal {currentQuestionIdx + 1} / {questionOrder.Count}";
 
         int qIndex = questionOrder[currentQuestionIdx];
         var q = quizSet.questions[qIndex];
